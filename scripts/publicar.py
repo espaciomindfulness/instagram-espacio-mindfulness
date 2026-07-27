@@ -95,24 +95,47 @@ def crear_contenedor(params: dict) -> str:
     return respuesta["id"]
 
 
-def esperar_procesamiento(contenedor_id: str, max_segundos: int = 600) -> None:
-    """Los videos tardan en procesarse del lado de Meta. Hay que esperar."""
+def esperar_procesamiento(contenedor_id: str, max_segundos: int = 600, intervalo: int = 15) -> None:
+    """Meta procesa el contenedor antes de dejarlo publicar. Hay que esperar.
+
+    Los videos tardan minutos; las fotos son casi inmediatas pero tampoco estan
+    listas al instante (error 9007 "media is not ready for publishing").
+    """
     inicio = time.monotonic()
-    while time.monotonic() - inicio < max_segundos:
+    while True:
         estado = api("GET", contenedor_id, {"fields": "status_code,status"})
         codigo = estado.get("status_code")
-        if codigo == "FINISHED":
+        if codigo in ("FINISHED", "PUBLISHED"):
             return
         if codigo == "ERROR":
-            raise ErrorAPI(f"Meta no pudo procesar el video: {estado.get('status')}")
-        print(f"    procesando video... ({codigo})")
-        time.sleep(15)
-    raise ErrorAPI("Timeout: el video sigue procesandose despues de 10 minutos")
+            raise ErrorAPI(f"Meta no pudo procesar el contenido: {estado.get('status')}")
+        if time.monotonic() - inicio >= max_segundos:
+            raise ErrorAPI(
+                f"Timeout: el contenedor sigue en estado {codigo} despues de {max_segundos}s"
+            )
+        print(f"    procesando... ({codigo})")
+        time.sleep(intervalo)
 
 
-def publicar_contenedor(contenedor_id: str) -> str:
-    respuesta = api("POST", f"{IG_USER_ID}/media_publish", {"creation_id": contenedor_id})
-    return respuesta["id"]
+def publicar_contenedor(contenedor_id: str, reintentos: int = 5, espera: int = 12) -> str:
+    """Publica el contenedor, reintentando si Meta todavia lo esta procesando.
+
+    Aunque status_code diga FINISHED, media_publish puede responder 9007 por unos
+    segundos mas. Es transitorio: se resuelve reintentando.
+    """
+    ultimo: ErrorAPI | None = None
+    for intento in range(1, reintentos + 1):
+        try:
+            respuesta = api("POST", f"{IG_USER_ID}/media_publish", {"creation_id": contenedor_id})
+            return respuesta["id"]
+        except ErrorAPI as exc:
+            if "2207027" not in str(exc) and "9007" not in str(exc):
+                raise
+            ultimo = exc
+            if intento < reintentos:
+                print(f"    contenedor todavia no publicable, reintento {intento}/{reintentos} en {espera}s")
+                time.sleep(espera)
+    raise ErrorAPI(f"El contenedor nunca quedo listo para publicar: {ultimo}")
 
 
 def publicar_post(post: dict) -> str:
@@ -125,6 +148,7 @@ def publicar_post(post: dict) -> str:
             "image_url": url_publica(post["archivo"]),
             "caption": caption,
         })
+        esperar_procesamiento(contenedor, max_segundos=180, intervalo=5)
 
     elif tipo == "carrusel":
         hijos = []
@@ -134,11 +158,14 @@ def publicar_post(post: dict) -> str:
                 "is_carousel_item": "true",
             })
             hijos.append(hijo)
+        for hijo in hijos:
+            esperar_procesamiento(hijo, max_segundos=180, intervalo=5)
         contenedor = crear_contenedor({
             "media_type": "CAROUSEL",
             "children": ",".join(hijos),
             "caption": caption,
         })
+        esperar_procesamiento(contenedor, max_segundos=300, intervalo=5)
 
     elif tipo == "reel":
         params = {
