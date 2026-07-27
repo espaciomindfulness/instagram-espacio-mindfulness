@@ -13,18 +13,26 @@
       "media_id": "18108692423045414"
     },
     {
-      "id": "post2-tip-mindfulness",
-      "tipo": "imagen",
+      "id": "post2-mitos-mindfulness",
+      "tipo": "carrusel",
       "estado": "pendiente",
       "fecha": "2026-07-29",
-      "hora": "12:00",
-      "archivo": "post2_tip_mindfulness.jpg",
-      "caption": "¿3 minutos libres? Es todo lo que necesitás para cambiar tu día. ⏱️🧘\n\nProbá este ejercicio simple:\n1️⃣ Cerrá los ojos\n2️⃣ Sentí tu respiración (sin cambiarla)\n3️⃣ Observá lo que aparece, sin juzgar\n\nNo se trata de \"vaciar la mente\". Se trata de estar presente con lo que hay.\n\nGuardá este post para cuando necesites tu pausa de 3 minutos 💾\n\n#Mindfulness #EjercicioMindfulness #3MinutosDeCalma #Meditación #BienestarEmocional #TipsDeBienestar #AtencionPlena #EspacioMindfulness"
+      "hora": "19:00",
+      "archivos": [
+        "post2_mitos_1.jpg",
+        "post2_mitos_2.jpg",
+        "post2_mitos_3.jpg",
+        "post2_mitos_4.jpg",
+        "post2_mitos_5.jpg",
+        "post2_mitos_6.jpg",
+        "post2_mitos_7.jpg"
+      ],
+      "caption": "«Poné la mente en blanco.»\n\nSi alguna vez intentaste meditar y sentiste que no te salía, capaz no estabas fallando vos: estabas siguiendo una instrucción equivocada.\n\nHay cinco ideas sobre el mindfulness que se repiten tanto que ya suenan a verdad. Y son, justamente, las que dejan afuera a un montón de gente a la que la práctica podría servirle.\n\nLas desarmamos una por una 👉 deslizá.\n\nSi te quedaste con ganas de entenderlo en serio, tenemos una charla gratuita de 45 minutos: qué es el mindfulness, qué dice la evidencia y cómo funciona el programa MBSR. El link está en la bio.\n\n¿Cuál de los cinco creías vos? Contanos acá abajo 🌿\n\n#Mindfulness #MBSR #ReduccionDeEstres #Ansiedad #MindfulnessArgentina #SaludMental #Meditacion #EspacioMindfulness"
     },
     {
       "id": "post3-dato-cientifico",
       "tipo": "imagen",
-      "estado": "pendiente",
+      "estado": "borrador",
       "fecha": "2026-07-31",
       "hora": "10:00",
       "archivo": "post3_dato_cientifico.jpg",
@@ -33,7 +41,7 @@
     {
       "id": "post4-frase-amorosa",
       "tipo": "imagen",
-      "estado": "pendiente",
+      "estado": "borrador",
       "fecha": "2026-08-02",
       "hora": "09:00",
       "archivo": "post4_frase_amorosa.jpg",
@@ -42,7 +50,7 @@
     {
       "id": "post5-beneficios",
       "tipo": "imagen",
-      "estado": "pendiente",
+      "estado": "borrador",
       "fecha": "2026-08-04",
       "hora": "11:00",
       "archivo": "post5_beneficios.jpg",
@@ -51,7 +59,7 @@
     {
       "id": "post6-mindfulness-trabajo",
       "tipo": "imagen",
-      "estado": "pendiente",
+      "estado": "borrador",
       "fecha": "2026-08-06",
       "hora": "08:30",
       "archivo": "post6_mindfulness_trabajo.jpg",
@@ -60,7 +68,7 @@
     {
       "id": "post7-frase-cierre",
       "tipo": "imagen",
-      "estado": "pendiente",
+      "estado": "borrador",
       "fecha": "2026-08-07",
       "hora": "18:00",
       "archivo": "post7_frase_cierre.jpg",
