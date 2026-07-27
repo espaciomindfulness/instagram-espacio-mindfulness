@@ -4,11 +4,13 @@
     {
       "id": "post1-frase-inspiradora",
       "tipo": "imagen",
-      "estado": "pendiente",
+      "estado": "publicado",
       "fecha": "2026-07-27",
       "hora": "17:30",
       "archivo": "post1_frase_inspiradora.jpg",
-      "caption": "Respirá profundo. Este momento es tuyo. 🌿\n\nA veces nos olvidamos de lo más simple: estamos acá, estamos vivos, y eso ya es suficiente.\n\nHoy te invitamos a regalarle a tu mente un segundo de silencio. Solo uno. Respirá, soltá, y volvé a empezar.\n\n¿Cuándo fue la última vez que te regalaste una pausa consciente? Contanos en los comentarios 👇\n\n#Mindfulness #AtenciónPlena #Bienestar #PazInterior #Respirar #MomentoPresente #Meditación #SaludMental #EspacioMindfulness"
+      "caption": "Respirá profundo. Este momento es tuyo. 🌿\n\nA veces nos olvidamos de lo más simple: estamos acá, estamos vivos, y eso ya es suficiente.\n\nHoy te invitamos a regalarle a tu mente un segundo de silencio. Solo uno. Respirá, soltá, y volvé a empezar.\n\n¿Cuándo fue la última vez que te regalaste una pausa consciente? Contanos en los comentarios 👇\n\n#Mindfulness #AtenciónPlena #Bienestar #PazInterior #Respirar #MomentoPresente #Meditación #SaludMental #EspacioMindfulness",
+      "publicado_en": "2026-07-27T17:49:00-03:00",
+      "media_id": "18108692423045414"
     },
     {
       "id": "post2-tip-mindfulness",
