@@ -44,7 +44,7 @@ IG_USER_ID = os.environ.get("IG_USER_ID", "")
 TOKEN = os.environ.get("IG_ACCESS_TOKEN", "")
 BASE_URL = os.environ.get("IG_BASE_URL", "").rstrip("/")
 DRY_RUN = os.environ.get("IG_DRY_RUN", "0") == "1"
-GRACIA_HORAS = int(os.environ.get("IG_GRACIA_HORAS", "12"))
+GRACIA_HORAS = int(os.environ.get("IG_GRACIA_HORAS", "36"))
 MAX_POR_CORRIDA = int(os.environ.get("IG_MAX_POR_CORRIDA", "1"))
 MAX_INTENTOS = 3
 
@@ -100,10 +100,19 @@ def esperar_procesamiento(contenedor_id: str, max_segundos: int = 600, intervalo
 
     Los videos tardan minutos; las fotos son casi inmediatas pero tampoco estan
     listas al instante (error 9007 "media is not ready for publishing").
+
+    Si Meta no deja consultar el estado de este contenedor, NO abortamos: se
+    espera un poco y se sigue. Publicar de mas tarde es recuperable; abortar
+    por no poder leer un estado, no.
     """
     inicio = time.monotonic()
     while True:
-        estado = api("GET", contenedor_id, {"fields": "status_code,status"})
+        try:
+            estado = api("GET", contenedor_id, {"fields": "status_code,status"})
+        except ErrorAPI as exc:
+            print(f"    no pude leer el estado del contenedor ({exc}); espero y sigo")
+            time.sleep(intervalo)
+            return
         codigo = estado.get("status_code")
         if codigo in ("FINISHED", "PUBLISHED"):
             return
@@ -158,8 +167,10 @@ def publicar_post(post: dict) -> str:
                 "is_carousel_item": "true",
             })
             hijos.append(hijo)
-        for hijo in hijos:
-            esperar_procesamiento(hijo, max_segundos=180, intervalo=5)
+        # No consultamos el estado de cada hija: Meta no lo garantiza para los
+        # contenedores con is_carousel_item y una respuesta de error ahi tiraba
+        # abajo la publicacion entera. Alcanza con esperar al contenedor padre.
+        time.sleep(5)
         contenedor = crear_contenedor({
             "media_type": "CAROUSEL",
             "children": ",".join(hijos),
@@ -250,7 +261,12 @@ def main() -> int:
 
     for post, cuando in vencidos:
         post["estado"] = "vencido"
+        # Conservamos el error original: es el dato que sirve para diagnosticar,
+        # y antes se perdia al pisarlo con el aviso de vencimiento.
+        anterior = post.get("nota")
         post["nota"] = f"Se paso mas de {GRACIA_HORAS}h de {cuando:%Y-%m-%d %H:%M} sin publicarse."
+        if anterior:
+            post["nota"] += f" | Ultimo error: {anterior}"
         lineas.append(f"- VENCIDO `{post['id']}` (estaba para {cuando:%d/%m %H:%M})")
         cambio = True
 
