@@ -303,9 +303,20 @@ def main() -> int:
             lineas.append(f"- PUBLICADO {etiqueta} -> media_id `{media_id}`")
             cambio = True
         except (ErrorAPI, KeyError) as exc:
-            intentos = post.get("intentos", 0) + 1
+            # Si Meta bloquea el acceso de la app, el problema no es el post:
+            # no le gastamos intentos, porque si no queda en "error" definitivo
+            # en hora y media y hay que rescatarlo a mano cuando se destrabe.
+            bloqueo_de_la_app = "API access blocked" in str(exc)
+            intentos = post.get("intentos", 0) + (0 if bloqueo_de_la_app else 1)
             post["intentos"] = intentos
             post["nota"] = str(exc)[:500]
+            if bloqueo_de_la_app:
+                lineas.append(f"- BLOQUEADO {etiqueta}: Meta corto el acceso de la app. "
+                              "No cuenta como intento; revisa las acciones requeridas en "
+                              "developers.facebook.com.")
+                hubo_error = True
+                cambio = True
+                continue
             if intentos >= MAX_INTENTOS:
                 post["estado"] = "error"
                 lineas.append(f"- ERROR DEFINITIVO {etiqueta} tras {intentos} intentos: {exc}")
