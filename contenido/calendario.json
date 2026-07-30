@@ -15,7 +15,7 @@
     {
       "id": "post2-mitos-mindfulness",
       "tipo": "carrusel",
-      "estado": "pendiente",
+      "estado": "vencido",
       "fecha": "2026-07-29",
       "hora": "19:00",
       "archivos": [
@@ -29,7 +29,7 @@
       ],
       "caption": "«Poné la mente en blanco.»\n\nSi alguna vez intentaste meditar y sentiste que no te salía, capaz no estabas fallando vos: estabas siguiendo una instrucción equivocada.\n\nHay cinco ideas sobre el mindfulness que se repiten tanto que ya suenan a verdad. Y son, justamente, las que dejan afuera a un montón de gente a la que la práctica podría servirle.\n\nLas desarmamos una por una 👉 deslizá.\n\nSi te quedaste con ganas de entenderlo en serio, tenemos una charla gratuita de 45 minutos: qué es el mindfulness, qué dice la evidencia y cómo funciona el programa MBSR. El link está en la bio.\n\n¿Cuál de los cinco creías vos? Contanos acá abajo 🌿\n\n#Mindfulness #MBSR #ReduccionDeEstres #Ansiedad #MindfulnessArgentina #SaludMental #Meditacion #EspacioMindfulness",
       "intentos": 2,
-      "nota": "HTTP 400 en 17841406066813377/media -> {\"error\":{\"message\":\"API access blocked.\",\"type\":\"OAuthException\",\"code\":200,\"fbtrace_id\":\"ApigPUf3h8ajR4jwei1hjTv\"}}"
+      "nota": "Se paso mas de 12h de 2026-07-29 19:00 sin publicarse."
     },
     {
       "id": "post3-reel-tres-minutos",
