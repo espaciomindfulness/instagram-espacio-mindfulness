@@ -45,11 +45,13 @@
     {
       "id": "post4-testimonio-google",
       "tipo": "imagen",
-      "estado": "pendiente",
+      "estado": "publicado",
       "fecha": "2026-08-02",
       "hora": "09:30",
       "archivo": "post4_testimonio.jpg",
-      "caption": "«No salís igual de cómo entraste.»\n\nEs de una reseña de Google, escrita por alguien que hizo el programa. No se la pedimos: la dejó sola.\n\nSomos 4.9 estrellas sobre 40 reseñas verificadas, y lo que más se repite no es «aprendí a meditar». Es «cambió cómo me llevo conmigo».\n\nSi estás dando vueltas hace rato con la idea de empezar, la charla gratuita de 45 minutos es un buen primer paso. Link en la bio.\n\n#Mindfulness #MBSR #MindfulnessArgentina #SaludMental #Ansiedad #ReduccionDeEstres #EspacioMindfulness"
+      "caption": "«No salís igual de cómo entraste.»\n\nEs de una reseña de Google, escrita por alguien que hizo el programa. No se la pedimos: la dejó sola.\n\nSomos 4.9 estrellas sobre 40 reseñas verificadas, y lo que más se repite no es «aprendí a meditar». Es «cambió cómo me llevo conmigo».\n\nSi estás dando vueltas hace rato con la idea de empezar, la charla gratuita de 45 minutos es un buen primer paso. Link en la bio.\n\n#Mindfulness #MBSR #MindfulnessArgentina #SaludMental #Ansiedad #ReduccionDeEstres #EspacioMindfulness",
+      "publicado_en": "2026-08-02T12:46:49-03:00",
+      "media_id": "18063619337765958"
     },
     {
       "id": "post5-que-es-mbsr",
