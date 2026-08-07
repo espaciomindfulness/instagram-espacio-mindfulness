@@ -45,6 +45,10 @@ TOKEN = os.environ.get("IG_ACCESS_TOKEN", "")
 BASE_URL = os.environ.get("IG_BASE_URL", "").rstrip("/")
 DRY_RUN = os.environ.get("IG_DRY_RUN", "0") == "1"
 GRACIA_HORAS = int(os.environ.get("IG_GRACIA_HORAS", "36"))
+# Ventana horaria de publicacion. Un post atrasado espera a la maniana en vez
+# de salir de madrugada, donde no lo ve nadie.
+HORA_MIN = int(os.environ.get("IG_HORA_MIN", "7"))
+HORA_MAX = int(os.environ.get("IG_HORA_MAX", "23"))
 MAX_POR_CORRIDA = int(os.environ.get("IG_MAX_POR_CORRIDA", "1"))
 MAX_INTENTOS = 3
 
@@ -296,6 +300,20 @@ def main() -> int:
 
     for cuando, post in a_publicar:
         etiqueta = f"`{post['id']}` ({post.get('tipo', 'imagen')}, programado {cuando:%d/%m %H:%M})"
+
+        # Un post que se atraso (por un bloqueo de Meta o una caida de GitHub)
+        # espera a la maniana en vez de salir de madrugada. La excepcion es que
+        # este publicandose a horario: ahi respetamos la hora que elegiste vos,
+        # aunque sea temprano o tarde.
+        en_ventana = HORA_MIN <= ahora.hour < HORA_MAX
+        a_horario = ahora - cuando <= timedelta(minutes=60)
+        if not (en_ventana or a_horario) and not DRY_RUN:
+            lineas.append(
+                f"- POSPUESTO {etiqueta}: son las {ahora:%H:%M} y no publicamos "
+                f"entre las {HORA_MAX}:00 y las {HORA_MIN}:00. Sale a la maniana."
+            )
+            continue
+
         if DRY_RUN:
             lineas.append(f"- SIMULACRO {etiqueta} -> {url_publica(post.get('archivo', '?'))}")
             continue
