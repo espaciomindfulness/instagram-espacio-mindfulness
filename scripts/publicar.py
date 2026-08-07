@@ -259,8 +259,15 @@ def main() -> int:
         else:
             listos.append((cuando, post))
 
+    # Solo marcamos la corrida como fallida cuando un post se pierde de verdad
+    # (queda en "error" o "vencido"). Los tropiezos pasajeros -bloqueos de Meta,
+    # reintentos- no ensucian la pestania Actions ni disparan mails: el post
+    # sigue pendiente y sale en la corrida siguiente.
+    perdida_definitiva = False
+
     for post, cuando in vencidos:
         post["estado"] = "vencido"
+        perdida_definitiva = True
         # Conservamos el error original: es el dato que sirve para diagnosticar,
         # y antes se perdia al pisarlo con el aviso de vencimiento.
         anterior = post.get("nota")
@@ -287,7 +294,6 @@ def main() -> int:
         resumen(lineas)
         return 0
 
-    hubo_error = False
     for cuando, post in a_publicar:
         etiqueta = f"`{post['id']}` ({post.get('tipo', 'imagen')}, programado {cuando:%d/%m %H:%M})"
         if DRY_RUN:
@@ -312,23 +318,23 @@ def main() -> int:
             post["nota"] = str(exc)[:500]
             if bloqueo_de_la_app:
                 lineas.append(f"- BLOQUEADO {etiqueta}: Meta corto el acceso de la app. "
-                              "No cuenta como intento; revisa las acciones requeridas en "
+                              "No cuenta como intento; el post sigue pendiente y se "
+                              "reintenta solo. Revisa las acciones requeridas en "
                               "developers.facebook.com.")
-                hubo_error = True
                 cambio = True
                 continue
             if intentos >= MAX_INTENTOS:
                 post["estado"] = "error"
                 lineas.append(f"- ERROR DEFINITIVO {etiqueta} tras {intentos} intentos: {exc}")
+                perdida_definitiva = True
             else:
                 lineas.append(f"- FALLO {etiqueta} (intento {intentos}/{MAX_INTENTOS}), reintenta luego: {exc}")
-            hubo_error = True
             cambio = True
 
     if cambio:
         guardar_calendario(calendario)
     resumen(lineas)
-    return 1 if hubo_error else 0
+    return 1 if perdida_definitiva else 0
 
 
 if __name__ == "__main__":
