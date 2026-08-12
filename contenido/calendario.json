@@ -136,11 +136,13 @@
     {
       "id": "post9-ultima-llamada",
       "tipo": "imagen",
-      "estado": "pendiente",
+      "estado": "publicado",
       "fecha": "2026-08-12",
       "hora": "09:30",
       "archivo": "post9_ultima_llamada.jpg",
-      "caption": "Esta semana arranca el MBSR online.\n\n🔹 Jueves 13/08 · Online · 19 a 21 h\n\nOcho semanas, un encuentro por semana de dos horas, prácticas guiadas para llevarte a casa y un retiro de día completo sobre el final.\n\n¿Preferís presencial? La cohorte de agosto se llenó, así que la próxima arranca el viernes 16 de octubre en Villa Urquiza. Escribinos y te reservamos el lugar.\n\nSi venías pensándolo, este es el momento 🌿\n\n#Mindfulness #MBSR #MindfulnessArgentina #SaludMental #Ansiedad #ReduccionDeEstres #EspacioMindfulness"
+      "caption": "Esta semana arranca el MBSR online.\n\n🔹 Jueves 13/08 · Online · 19 a 21 h\n\nOcho semanas, un encuentro por semana de dos horas, prácticas guiadas para llevarte a casa y un retiro de día completo sobre el final.\n\n¿Preferís presencial? La cohorte de agosto se llenó, así que la próxima arranca el viernes 16 de octubre en Villa Urquiza. Escribinos y te reservamos el lugar.\n\nSi venías pensándolo, este es el momento 🌿\n\n#Mindfulness #MBSR #MindfulnessArgentina #SaludMental #Ansiedad #ReduccionDeEstres #EspacioMindfulness",
+      "publicado_en": "2026-08-12T12:29:57-03:00",
+      "media_id": "18214390171351689"
     },
     {
       "id": "post10-testimonio-pagani",
