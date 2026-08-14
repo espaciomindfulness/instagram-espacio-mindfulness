@@ -147,11 +147,13 @@
     {
       "id": "post10-testimonio-pagani",
       "tipo": "imagen",
-      "estado": "pendiente",
+      "estado": "publicado",
       "fecha": "2026-08-14",
       "hora": "09:30",
       "archivo": "post10_testimonio_pagani.jpg",
-      "caption": "«Encontrarse con uno mismo.»\n\nAsí describió Hernán su paso por el programa. Nos quedamos con esa parte porque suele ser la que menos se espera: la gente llega para bajar el estrés y se encuentra con algo más grande.\n\n4.9 sobre 40 reseñas verificadas en Google. Las podés leer todas, no elegimos las mejores 🌿\n\nCharla gratuita de 45 minutos en el link de la bio.\n\n#Mindfulness #MBSR #MindfulnessArgentina #SaludMental #Ansiedad #ReduccionDeEstres #EspacioMindfulness"
+      "caption": "«Encontrarse con uno mismo.»\n\nAsí describió Hernán su paso por el programa. Nos quedamos con esa parte porque suele ser la que menos se espera: la gente llega para bajar el estrés y se encuentra con algo más grande.\n\n4.9 sobre 40 reseñas verificadas en Google. Las podés leer todas, no elegimos las mejores 🌿\n\nCharla gratuita de 45 minutos en el link de la bio.\n\n#Mindfulness #MBSR #MindfulnessArgentina #SaludMental #Ansiedad #ReduccionDeEstres #EspacioMindfulness",
+      "publicado_en": "2026-08-14T12:25:16-03:00",
+      "media_id": "18110021189472617"
     },
     {
       "id": "post11-rumiacion",
