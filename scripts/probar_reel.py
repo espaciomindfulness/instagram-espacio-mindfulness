@@ -38,11 +38,15 @@ def resumen(lineas: list[str]) -> None:
 
 def main() -> int:
     calendario = json.loads(CALENDARIO.read_text(encoding="utf-8"))
-    reels = [p for p in calendario["posts"] if p.get("tipo") == "reel"]
+    # Solo reels activos: los que quedaron en borrador no tienen archivo y
+    # probarlos da un falso negativo (Meta no puede bajar lo que no existe).
+    reels = [p for p in calendario["posts"]
+             if p.get("tipo") == "reel" and p.get("estado") == "pendiente"]
     if REEL_ID:
-        reels = [p for p in reels if p["id"] == REEL_ID]
+        reels = [p for p in calendario["posts"]
+                 if p.get("tipo") == "reel" and p["id"] == REEL_ID]
     if not reels:
-        resumen(["No encontre ningun reel para probar."])
+        resumen(["No encontre ningun reel pendiente para probar."])
         return 1
 
     post = reels[0]
