@@ -138,7 +138,7 @@
     {
       "id": "post11-rumiacion",
       "tipo": "carrusel",
-      "estado": "pendiente",
+      "estado": "publicado",
       "fecha": "2026-08-16",
       "hora": "19:00",
       "archivos": [
@@ -150,7 +150,9 @@
         "post11_rumiacion_6.jpg",
         "post11_rumiacion_7.jpg"
       ],
-      "caption": "Son las 2 de la mañana y seguís dándole vueltas a lo mismo.\n\nEso tiene nombre: rumiación. Y no es lo mismo que pensar. Pensar avanza; rumiar gira. La trampa es que se siente productivo — parece que estás resolviendo algo — y en realidad el problema no se movió un centímetro.\n\nTe contamos por qué pasa, por qué aparece justo cuando bajás el ritmo, y cuál es la única salida que funciona (spoiler: no es discutirle) 👉 deslizá.\n\nGuardalo para la próxima noche que te agarre 🌿\n\n#Mindfulness #MBSR #Rumiacion #Ansiedad #MindfulnessArgentina #SaludMental #EspacioMindfulness"
+      "caption": "Son las 2 de la mañana y seguís dándole vueltas a lo mismo.\n\nEso tiene nombre: rumiación. Y no es lo mismo que pensar. Pensar avanza; rumiar gira. La trampa es que se siente productivo — parece que estás resolviendo algo — y en realidad el problema no se movió un centímetro.\n\nTe contamos por qué pasa, por qué aparece justo cuando bajás el ritmo, y cuál es la única salida que funciona (spoiler: no es discutirle) 👉 deslizá.\n\nGuardalo para la próxima noche que te agarre 🌿\n\n#Mindfulness #MBSR #Rumiacion #Ansiedad #MindfulnessArgentina #SaludMental #EspacioMindfulness",
+      "publicado_en": "2026-08-16T19:44:33-03:00",
+      "media_id": "18433024771134906"
     },
     {
       "id": "post12-frase-libro",
