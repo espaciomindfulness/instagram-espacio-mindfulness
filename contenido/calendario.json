@@ -220,11 +220,13 @@
     {
       "id": "post14-testimonio-montes",
       "tipo": "imagen",
-      "estado": "pendiente",
+      "estado": "publicado",
       "fecha": "2026-08-22",
       "hora": "09:30",
       "archivo": "post14_testimonio_montes.jpg",
-      "caption": "«Una segunda oportunidad de sanar y volver a empezar.»\n\nJohanna dejó esta reseña en Google. No se la pedimos.\n\nHay algo que se repite en lo que escribe la gente que pasó por acá, y no es sobre técnicas de meditación: es sobre el trato. Que del otro lado haya profesionales serios y, además, personas.\n\nEso no se enseña en una certificación. Pero es la mitad del trabajo 🌿\n\nCharla gratuita en el link de la bio.\n\n#Mindfulness #MBSR #MindfulnessArgentina #SaludMental #Ansiedad #ReduccionDeEstres #EspacioMindfulness"
+      "caption": "«Una segunda oportunidad de sanar y volver a empezar.»\n\nJohanna dejó esta reseña en Google. No se la pedimos.\n\nHay algo que se repite en lo que escribe la gente que pasó por acá, y no es sobre técnicas de meditación: es sobre el trato. Que del otro lado haya profesionales serios y, además, personas.\n\nEso no se enseña en una certificación. Pero es la mitad del trabajo 🌿\n\nCharla gratuita en el link de la bio.\n\n#Mindfulness #MBSR #MindfulnessArgentina #SaludMental #Ansiedad #ReduccionDeEstres #EspacioMindfulness",
+      "publicado_en": "2026-08-22T10:43:16-03:00",
+      "media_id": "18112082120007279"
     },
     {
       "id": "post15-senales-estres",
