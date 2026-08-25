@@ -250,12 +250,14 @@
     {
       "id": "reel3-celular-costo-oculto",
       "tipo": "reel",
-      "estado": "pendiente",
+      "estado": "publicado",
       "fecha": "2026-08-25",
       "hora": "13:00",
       "archivo": "07_celular_costo_oculto.mp4",
       "compartir_en_feed": true,
-      "caption": "El celular no te roba tiempo: te lo cobra.\n\nTe da gratificación inmediata, pero pagás caro no haber estudiado. Y si valorás tu carrera, ese costo es real.\n\nLo que pasa es que la factura llega tarde — cuando ya te perdiste un montón de cosas.\n\n—\nFragmento de mi paso por Vocación Positiva (Radio Cultura BA) con Diana Trajtenberg.\nLa entrevista completa, en el link de la bio.\n\nLic. Christian D. Arpa · Psicólogo (UBA) · MBSR Teacher (Global Mindfulness Collaborative)\nAutor de «Soltar con Mindfulness»\nEspacio Mindfulness — institución acreditada por GMC\n\n#mindfulness #ansiedad #mbsr #atenciónplena #psicología #bienestar"
+      "caption": "El celular no te roba tiempo: te lo cobra.\n\nTe da gratificación inmediata, pero pagás caro no haber estudiado. Y si valorás tu carrera, ese costo es real.\n\nLo que pasa es que la factura llega tarde — cuando ya te perdiste un montón de cosas.\n\n—\nFragmento de mi paso por Vocación Positiva (Radio Cultura BA) con Diana Trajtenberg.\nLa entrevista completa, en el link de la bio.\n\nLic. Christian D. Arpa · Psicólogo (UBA) · MBSR Teacher (Global Mindfulness Collaborative)\nAutor de «Soltar con Mindfulness»\nEspacio Mindfulness — institución acreditada por GMC\n\n#mindfulness #ansiedad #mbsr #atenciónplena #psicología #bienestar",
+      "publicado_en": "2026-08-25T13:18:21-03:00",
+      "media_id": "18101015699212389"
     },
     {
       "id": "post16-libro",
