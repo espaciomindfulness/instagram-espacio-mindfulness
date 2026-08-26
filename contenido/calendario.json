@@ -262,11 +262,13 @@
     {
       "id": "post16-libro",
       "tipo": "imagen",
-      "estado": "pendiente",
+      "estado": "publicado",
       "fecha": "2026-08-26",
       "hora": "19:00",
       "archivo": "post16_libro.jpg",
-      "caption": "«Soltar con Mindfulness» — Christian D. Arpa\n\nUn recorrido para entender, practicar y soltar. Más de 100 páginas en cinco capítulos: qué es el mindfulness, la conexión cuerpo-mente, estrés, entrenamiento práctico y el arte de soltar.\n\nNo es un libro de frases lindas: tiene ejercicios concretos y lineamientos para sostener la práctica en el tiempo, escritos por un instructor MBSR certificado con 13 años de experiencia.\n\nSe consigue en Mercado Libre (Argentina) y Amazon (internacional). Link en la bio 📖\n\n#Mindfulness #MBSR #MindfulnessArgentina #SaludMental #Ansiedad #ReduccionDeEstres #EspacioMindfulness"
+      "caption": "«Soltar con Mindfulness» — Christian D. Arpa\n\nUn recorrido para entender, practicar y soltar. Más de 100 páginas en cinco capítulos: qué es el mindfulness, la conexión cuerpo-mente, estrés, entrenamiento práctico y el arte de soltar.\n\nNo es un libro de frases lindas: tiene ejercicios concretos y lineamientos para sostener la práctica en el tiempo, escritos por un instructor MBSR certificado con 13 años de experiencia.\n\nSe consigue en Mercado Libre (Argentina) y Amazon (internacional). Link en la bio 📖\n\n#Mindfulness #MBSR #MindfulnessArgentina #SaludMental #Ansiedad #ReduccionDeEstres #EspacioMindfulness",
+      "publicado_en": "2026-08-26T20:49:38-03:00",
+      "media_id": "18100905172998442"
     },
     {
       "id": "reel4-primero-detenerse",
