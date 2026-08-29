@@ -285,7 +285,7 @@
     {
       "id": "post17-pausas-trabajo",
       "tipo": "carrusel",
-      "estado": "pendiente",
+      "estado": "publicado",
       "fecha": "2026-08-28",
       "hora": "19:00",
       "archivos": [
@@ -296,7 +296,9 @@
         "post17_pausas_5.jpg",
         "post17_pausas_6.jpg"
       ],
-      "caption": "«No tengo tiempo para meditar.»\n\nEs la objeción número uno, y es más honesta de lo que parece. Nadie tiene una hora libre en el medio de un día de trabajo.\n\nLa buena noticia: no hace falta. Lo que sostiene el cambio es la constancia, no la duración. Cuatro pausas de un minuto, ubicadas en momentos que ya existen en tu día 👉 deslizá.\n\nNinguna requiere cerrar los ojos, ni un lugar especial, ni que nadie se entere. Guardalo y probá una mañana 🌿\n\n#Mindfulness #MBSR #MindfulnessArgentina #SaludMental #Ansiedad #ReduccionDeEstres #EspacioMindfulness"
+      "caption": "«No tengo tiempo para meditar.»\n\nEs la objeción número uno, y es más honesta de lo que parece. Nadie tiene una hora libre en el medio de un día de trabajo.\n\nLa buena noticia: no hace falta. Lo que sostiene el cambio es la constancia, no la duración. Cuatro pausas de un minuto, ubicadas en momentos que ya existen en tu día 👉 deslizá.\n\nNinguna requiere cerrar los ojos, ni un lugar especial, ni que nadie se entere. Guardalo y probá una mañana 🌿\n\n#Mindfulness #MBSR #MindfulnessArgentina #SaludMental #Ansiedad #ReduccionDeEstres #EspacioMindfulness",
+      "publicado_en": "2026-08-29T08:13:29-03:00",
+      "media_id": "17874216699564790"
     },
     {
       "id": "post18-cierre-mes",
