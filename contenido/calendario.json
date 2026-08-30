@@ -303,11 +303,13 @@
     {
       "id": "post18-cierre-mes",
       "tipo": "imagen",
-      "estado": "pendiente",
+      "estado": "publicado",
       "fecha": "2026-08-30",
       "hora": "09:30",
       "archivo": "post18_cierre_mes.jpg",
-      "caption": "Si venís leyéndonos todo el mes, esto es para vos.\n\nLa charla gratuita dura 45 minutos y no tiene ningún compromiso: contamos qué es el mindfulness, qué dice la evidencia y cómo se cursa el programa MBSR. Preguntás lo que quieras y decidís después.\n\nEs el paso que recomendamos antes de anotarse a cualquier cosa. Nadie debería invertir ocho semanas en algo que no entiende del todo.\n\n📍 Próxima cohorte presencial: viernes 16 de octubre, Villa Urquiza.\n\nLink en la bio 🌿\n\n#Mindfulness #MBSR #MindfulnessArgentina #SaludMental #Ansiedad #ReduccionDeEstres #EspacioMindfulness"
+      "caption": "Si venís leyéndonos todo el mes, esto es para vos.\n\nLa charla gratuita dura 45 minutos y no tiene ningún compromiso: contamos qué es el mindfulness, qué dice la evidencia y cómo se cursa el programa MBSR. Preguntás lo que quieras y decidís después.\n\nEs el paso que recomendamos antes de anotarse a cualquier cosa. Nadie debería invertir ocho semanas en algo que no entiende del todo.\n\n📍 Próxima cohorte presencial: viernes 16 de octubre, Villa Urquiza.\n\nLink en la bio 🌿\n\n#Mindfulness #MBSR #MindfulnessArgentina #SaludMental #Ansiedad #ReduccionDeEstres #EspacioMindfulness",
+      "publicado_en": "2026-08-30T10:51:52-03:00",
+      "media_id": "18193073326380660"
     },
     {
       "id": "post19-dos-flechas",
