@@ -314,11 +314,13 @@
     {
       "id": "post19-dos-flechas",
       "tipo": "imagen",
-      "estado": "pendiente",
+      "estado": "publicado",
       "fecha": "2026-09-01",
       "hora": "09:30",
       "caption": "El dolor es inevitable. El sufrimiento, negociable.\n\nLa parábola de las dos flechas se enseña en el MBSR y explica algo que todos vivimos: la primera flecha es lo que pasa —la mala noticia, el dolor, la pérdida—. La segunda te la clavás vos: «no tendría que estar así», «por qué a mí», «esto me va a arruinar todo».\n\nLa primera no la elegís. La segunda, con entrenamiento, sí.\n\nCharla gratuita de 45 minutos en el link de la bio 🌿\n\n#Mindfulness #MBSR #MindfulnessArgentina #SaludMental #Ansiedad #ReduccionDeEstres #EspacioMindfulness",
-      "archivo": "post19_dos_flechas.jpg"
+      "archivo": "post19_dos_flechas.jpg",
+      "publicado_en": "2026-09-01T10:46:31-03:00",
+      "media_id": "18113662079515068"
     },
     {
       "id": "reel5-el-no-saber-esta-bien",
