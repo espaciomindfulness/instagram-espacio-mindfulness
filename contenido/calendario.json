@@ -337,7 +337,7 @@
     {
       "id": "post20-dormir-mejor",
       "tipo": "carrusel",
-      "estado": "pendiente",
+      "estado": "publicado",
       "fecha": "2026-09-03",
       "hora": "19:00",
       "caption": "Si el problema para dormir es tu cabeza y no tu colchón, esto es para vos.\n\nCinco cosas que sí ayudan cuando la mente no se apaga 👉 deslizá.\n\nOjo con la primera, que es la más contraintuitiva: esforzarte por dormir te despierta más. El sueño no se fuerza, se permite.\n\nGuardalo para esta noche 🌿\n\nSi el insomnio persiste, consultá con un profesional: esto suma, no reemplaza.\n\n#Mindfulness #MBSR #MindfulnessArgentina #SaludMental #Ansiedad #ReduccionDeEstres #EspacioMindfulness",
@@ -349,7 +349,9 @@
         "post20_dormir_5.jpg",
         "post20_dormir_6.jpg",
         "post20_dormir_7.jpg"
-      ]
+      ],
+      "publicado_en": "2026-09-03T19:40:06-03:00",
+      "media_id": "18006373562774468"
     },
     {
       "id": "reel6-relacion-con-tu-mente",
