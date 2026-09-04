@@ -85,7 +85,8 @@ NUEVAS = {
   "clínicos reales.\n\n"
   "Diecisiete módulos en cinco bloques, y uno de ellos es solo de integración "
   "clínica — que es donde suelen quedar cortas las formaciones que enseñan "
-  "los modelos por separado.\n\n"
+  "los modelos por separado. Doscientas horas certificadas, con numeración "
+  "única verificable.\n\n"
   "Escribinos y te pasamos el temario completo en PDF 🌿", HT_PRO),
 }
 
