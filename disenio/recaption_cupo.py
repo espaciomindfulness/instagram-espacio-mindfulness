@@ -32,34 +32,33 @@ NUEVAS = {
 
  "post33-cierre-septiembre": (
   "Instructorado en Mindfulness — Cohorte 2027.\n\n"
-  "Trescientas horas, los sábados, para pasar de practicar a poder conducir "
-  "grupos. Nueve módulos con formación en los tres programas — MBSR, MBCT y "
-  "MSC — más mindfulness aplicado al ámbito organizacional.\n\n"
-  "Una aclaración que hacemos siempre: en mindfulness no hay matrícula ni "
-  "colegio que regule. Cualquiera puede llamarse instructor mañana. Por eso "
-  "lo único que te protege como alumno es mirar quién certifica a quien te "
-  "enseña.\n\n"
-  "Espacio Mindfulness está acreditado por Global Mindfulness Collaborative y "
-  "enseña desde 2012. Chequealo, y chequeá a cualquiera con quien vayas a "
-  "formarte.\n\n"
-  "La inscripción está abierta. Escribinos y te pasamos el temario completo 🌿",
-  HT_PRO),
+  "Arranca el sábado 10 de abril. Un sábado al mes, de 10 a 14, de abril a "
+  "diciembre: los cinco primeros encuentros en vivo por Zoom y los cuatro "
+  "últimos presenciales en Villa Urquiza.\n\n"
+  "Es para egresados del programa MBSR. Ese es el requisito y no es un "
+  "capricho: no se enseña a guiar algo que no se transitó primero en carne "
+  "propia.\n\n"
+  "Trescientas horas certificadas, con numeración única verificable.\n\n"
+  "La inscripción está abierta y los cupos son limitados. Escribinos y te "
+  "pasamos el temario completo de los nueve módulos 🌿", HT_PRO),
 
  "post43-anuncio-ultima-cohorte": (
-  "Formarte para enseñar es otra cosa que practicar.\n\n"
-  "El Instructorado en Mindfulness 2027 es para profesionales de la salud, la "
-  "educación y el ámbito organizacional que ya tienen práctica personal y "
-  "quieren conducir grupos 👉 deslizá.\n\n"
-  "Trescientas horas, los sábados, nueve módulos a lo largo del año. Se "
-  "recorren los tres programas — MBSR, MBCT y MSC — y se suma mindfulness "
-  "aplicado a empresas, que es donde más demanda hay y menos gente formada.\n\n"
-  "La cuarta placa es la que nos importa: en este rubro no hay matrícula. "
-  "Antes de anotarte en cualquier formación, preguntá quién la certifica y "
-  "fijate si esa institución existe fuera de su propia web.\n\n"
-  "Nosotros estamos acreditados por Global Mindfulness Collaborative y "
-  "enseñamos desde 2012.\n\n"
-  "Escribinos por WhatsApp y te pasamos el temario y el calendario 🌿",
-  HT_PRO),
+  "Hiciste el MBSR. ¿Y si el próximo paso es enseñarlo?\n\n"
+  "El Instructorado en Mindfulness 2027 arranca el sábado 10 de abril 👉 "
+  "deslizá.\n\n"
+  "Un sábado al mes de 10 a 14, de abril a diciembre. Nueve módulos: los "
+  "cinco primeros en vivo por Zoom y los cuatro últimos presenciales en "
+  "Villa Urquiza.\n\n"
+  "Se ve manejo de grupos y rol del instructor, neuroeducación, mindfulness "
+  "con niños, psicodeporte, mindfulness empresarial, diseño de talleres "
+  "—MBSR, MBCT y MSC— y prácticas compasivas. Trescientas horas certificadas.\n\n"
+  "Y la advertencia que hacemos siempre, incluso si elegís formarte en otro "
+  "lado: en mindfulness no hay matrícula ni colegio que regule. Cualquiera "
+  "puede llamarse instructor mañana. Antes de anotarte donde sea, preguntá "
+  "quién dirige la formación y con qué acreditación.\n\n"
+  "Acá la dirección académica es del Lic. Christian Arpa, psicólogo (UBA) y "
+  "MBSR Teacher acreditado por Global Mindfulness Collaborative.\n\n"
+  "Escribinos por WhatsApp y te pasamos el temario completo 🌿", HT_PRO),
 
  "post44-ultima-llamada": (
   "Mañana arranca la presencial, con el cupo completo.\n\n"
@@ -68,25 +67,26 @@ NUEVAS = {
   "· Hay lista de espera, por si se libera un lugar.\n"
   "· La próxima cohorte online arranca a principios del año que viene.\n"
   "· La charla gratuita de 45 minutos sigue abierta todo el mes.\n\n"
-  "Y si lo tuyo es formarte para enseñar, el Instructorado y el Diplomado 2027 "
-  "ya tienen la inscripción abierta.\n\n"
+  "Y si lo tuyo es formarte para enseñar, el Instructorado 2027 arranca el "
+  "10 de abril y el Diplomado el 13. Los dos con inscripción abierta.\n\n"
   "Escribinos por WhatsApp y vemos cuál te sirve.", HT),
 
  "post51-diplomado-2027": (
   "Diplomado en Psicoterapia Basada en Procesos — Cohorte 2027.\n\n"
-  "Para psicólogos y profesionales de la salud mental que ya atienden y "
-  "quieren incorporar mindfulness y ACT a su práctica con método, no de "
-  "oído 👉 deslizá.\n\n"
-  "Nueve encuentros de cuatro horas, un martes por mes, en vivo por Zoom, de "
-  "abril a diciembre. Más un cierre presencial en Buenos Aires con práctica "
-  "intensiva y graduación. Doscientas horas en total, diecisiete módulos en "
-  "cinco bloques.\n\n"
+  "Mindfulness, ACT y Compasión: los tres enfoques con más evidencia clínica, "
+  "integrados en un solo marco de trabajo. Por procesos del paciente, no por "
+  "protocolos cerrados 👉 deslizá.\n\n"
+  "Arranca el martes 13 de abril. Nueve encuentros de cuatro horas, un martes "
+  "por mes de 10 a 14, todos en vivo por Zoom, hasta diciembre. Más el cierre "
+  "presencial del sábado 18 de diciembre en Buenos Aires: práctica intensiva, "
+  "supervisión final y graduación.\n\n"
   "En vivo, dicho en serio: no es una plataforma con clases grabadas y una "
-  "reunión mensual. Se cursa con el grupo y con supervisión.\n\n"
-  "Y lo que más nos importa: lo dicta gente que atiende. No es teoría de "
-  "manual, es lo que el equipo hace todos los días en el consultorio.\n\n"
-  "Arranca el martes 13 de abril. Escribinos y te pasamos el temario "
-  "completo 🌿", HT_PRO),
+  "reunión al mes. Se cursa con el grupo, con supervisión y con casos "
+  "clínicos reales.\n\n"
+  "Diecisiete módulos en cinco bloques, y uno de ellos es solo de integración "
+  "clínica — que es donde suelen quedar cortas las formaciones que enseñan "
+  "los modelos por separado.\n\n"
+  "Escribinos y te pasamos el temario completo en PDF 🌿", HT_PRO),
 }
 
 # Retoques chicos: el 45 sigue siendo valido, pero conviene que diga que

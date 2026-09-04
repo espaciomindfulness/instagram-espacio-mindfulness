@@ -180,5 +180,9 @@ def guardar(placas, nombre_preview, cols=4):
         mini = img.copy()
         mini.thumbnail((tw - 8, th - 8))
         hoja.paste(mini, ((i % cols) * tw + 4, (i // cols) * th + 4))
-    hoja.save(nombre_preview, quality=90)
-    print("preview:", nombre_preview)
+    # Siempre al lado del generador: si se guarda relativo al cwd, la preview
+    # cae en la raiz del repo cuando el script se corre desde afuera y uno
+    # termina mirando la version vieja sin darse cuenta.
+    salida = Path(__file__).resolve().parent / nombre_preview
+    hoja.save(salida, quality=90)
+    print("preview:", salida)

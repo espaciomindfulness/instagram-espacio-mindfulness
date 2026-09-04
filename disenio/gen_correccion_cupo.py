@@ -15,11 +15,23 @@ las dos formaciones profesionales de 2027.
 Ademas se sacan las fotos de archivo de las portadas de post43 y post51: ya
 hay bastantes placas con fotos de 2019 y conviene no estirar mas ese material.
 
-Datos de las formaciones (fuente: tablero maestro del proyecto EM, 2026):
-  Instructorado 2027 — sabados, 300 hs, 9 modulos, MBSR/MBCT/MSC + empresarial.
-  Diplomado 2027 (TBP) — 9 encuentros de 4 h en vivo por Zoom, 2os martes de
-  10 a 14, del 13/04 al 14/12, cierre presencial el 18/12 en Buenos Aires,
-  17 modulos en 5 bloques, 200 hs.
+Datos de las formaciones — FUENTE: las landings publicadas, chequeadas el
+04/09/2026. El tablero del proyecto tenia varias desactualizadas.
+
+  Instructorado 2027 — inicio sabado 10/04/2027. UN sabado al mes (segundos),
+  de 10 a 14, de abril a diciembre. 9 modulos en 4 bloques. Hibrido: modulos
+  1-5 en vivo por Zoom, 6-9 presenciales en Villa Urquiza. 300 hs certificadas.
+  REQUISITO: haber completado el programa MBSR de 8 semanas.
+  El certificado lo emite Espacio Mindfulness; el GMC acredita a Christian
+  como MBSR Teacher, no al Instructorado. No confundir las dos cosas.
+
+  Diplomado 2027 — inicio martes 13/04/2027. 9 encuentros de 4 h, un martes
+  por mes de 10 a 14, 100% en vivo por Zoom, de abril a diciembre. Cierre
+  presencial el sabado 18/12/2027 en Buenos Aires. 17 modulos en 5 bloques.
+  Mindfulness clinico, ACT y Compasion bajo el marco de la Psicoterapia
+  Basada en Procesos.
+  No se pone la carga horaria total: la landing dice 250 hs y el tablero
+  interno dice 200. Hasta que se resuelva, mejor no publicar el numero.
 """
 from piezas import *
 
@@ -59,10 +71,10 @@ def p33_instructorado_anuncio():
     return texto_suelto(
         "FORMACIÓN PROFESIONAL · 2027",
         "Instructorado en Mindfulness",
-        "Trescientas horas, los sábados, para formarte y poder conducir "
-        "grupos: MBSR, MBCT, MSC y mindfulness aplicado al ámbito "
-        "organizacional.",
-        "INSCRIPCIÓN ABIERTA", claro=False)
+        "Un sábado al mes, de abril a diciembre, entre Zoom y presencial. "
+        "Trescientas horas certificadas para pasar de practicar a poder "
+        "enseñar.",
+        "ARRANCA EL 10 DE ABRIL", claro=False)
 
 
 # ── 13/10 · Instructorado, carrusel ───────────────────────────────────────
@@ -70,27 +82,26 @@ def p43_instructorado():
     return [
         ("post43_anuncio_1.png", cubierta(
             "Instructorado", "en Mindfulness",
-            "Cohorte 2027 · La inscripción ya está abierta.")),
+            "Cohorte 2027 · Arranca el sábado 10 de abril.")),
         ("post43_anuncio_2.png", punto(
-            "PARA QUIÉN", "Para quien quiere enseñar, no solo practicar.",
-            "Profesionales de la salud, la educación y el ámbito "
-            "organizacional que ya tienen práctica personal y quieren "
-            "formarse para conducir grupos.")),
+            "PARA QUIÉN", "Para egresados del programa MBSR.",
+            "El requisito es haber hecho las ocho semanas. No se enseña a "
+            "guiar algo que no se transitó primero en carne propia.")),
         ("post43_anuncio_3.png", punto(
-            "CÓMO ES", "Trescientas horas, los sábados.",
-            "Nueve módulos a lo largo del año, con formación en los tres "
-            "programas — MBSR, MBCT y MSC — más mindfulness aplicado a "
-            "empresas.")),
+            "CUÁNDO", "Un sábado al mes, de 10 a 14 h.",
+            "Segundos sábados, de abril a diciembre de 2027. Los cinco "
+            "primeros encuentros son en vivo por Zoom y los cuatro últimos "
+            "presenciales, en la sede de Villa Urquiza.")),
         ("post43_anuncio_4.png", punto(
-            "POR QUÉ ACÁ", "En mindfulness no hay matrícula.",
-            "Cualquiera puede llamarse instructor mañana. Por eso importa "
-            "quién certifica: estamos acreditados por Global Mindfulness "
-            "Collaborative y enseñamos desde 2012.")),
+            "QUÉ SE VE", "Nueve módulos, del rol al oficio.",
+            "Manejo de grupos, neuroeducación, mindfulness con niños, "
+            "psicodeporte, mindfulness empresarial, diseño de talleres "
+            "—MBSR, MBCT y MSC— y prácticas compasivas.")),
         ("post43_anuncio_5.png", cierre_cta(
             "Cohorte 2027",
-            "Escribinos y te pasamos el temario completo de los nueve "
-            "módulos y el calendario. Los grupos son chicos.",
-            "ESCRIBINOS POR WHATSAPP", "SÁBADOS · 300 HORAS · AVAL GMC")),
+            "Trescientas horas certificadas, con numeración única "
+            "verificable. Escribinos y te pasamos el temario completo.",
+            "ESCRIBINOS POR WHATSAPP", "INICIO 10/04/2027 · CUPOS LIMITADOS")),
     ]
 
 
@@ -110,26 +121,26 @@ def p51_diplomado():
     return [
         ("post51_diplomado_1.png", cubierta(
             "Diplomado 2027", "inscripción abierta",
-            "Psicoterapia Basada en Procesos, con mindfulness y ACT.")),
+            "Mindfulness, ACT y Compasión, bajo el marco de procesos.")),
         ("post51_diplomado_2.png", punto(
-            "PARA QUIÉN", "Psicólogos y profesionales de la salud mental.",
-            "Pensado para quien ya atiende y quiere incorporar mindfulness y "
-            "ACT a su práctica clínica con método, no de oído.")),
+            "PARA QUIÉN", "Psicólogos, psiquiatras y profesionales de la salud mental.",
+            "Pensado para quien ya atiende y quiere incorporar mindfulness, "
+            "ACT y compasión a su práctica clínica con método, no de oído.")),
         ("post51_diplomado_3.png", punto(
-            "CÓMO ES", "Nueve encuentros en vivo, un martes por mes.",
-            "Cuatro horas cada uno, por Zoom y en vivo, de abril a diciembre. "
-            "Más un cierre presencial en Buenos Aires con práctica intensiva "
-            "y graduación. Doscientas horas en total.")),
+            "CUÁNDO", "Nueve encuentros, un martes por mes.",
+            "Cuatro horas cada uno, de 10 a 14, todos en vivo por Zoom, de "
+            "abril a diciembre. Más el cierre presencial del sábado 18 de "
+            "diciembre en Buenos Aires.")),
         ("post51_diplomado_4.png", punto(
             "QUÉ VAS A VER", "Diecisiete módulos en cinco bloques.",
-            "Del diagnóstico a los procesos de cambio, bajo el marco de la "
-            "Terapia Basada en Procesos. Lo dicta gente que atiende todos "
-            "los días: no es teoría de manual.")),
+            "Del diagnóstico a los procesos de cambio, con el modelo de Hayes "
+            "y Hofmann. Mindfulness clínico, ACT, compasión y un bloque final "
+            "de integración con casos reales.")),
         ("post51_diplomado_5.png", cierre_cta(
             "Cohorte 2027",
             "Arranca el martes 13 de abril. Escribinos y te pasamos el "
-            "temario completo. Los grupos son chicos.",
-            "ESCRIBINOS POR WHATSAPP", "MARTES POR ZOOM · CIERRE PRESENCIAL")),
+            "temario completo en PDF. Los grupos son chicos.",
+            "ESCRIBINOS POR WHATSAPP", "EN VIVO POR ZOOM · CIERRE PRESENCIAL")),
     ]
 
 
