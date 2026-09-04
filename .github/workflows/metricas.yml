@@ -11,6 +11,13 @@ on:
     # Lunes 12:00 UTC = 9:00 en Buenos Aires.
     - cron: "0 12 * * 1"
   workflow_dispatch:
+  # Cada vez que se toca el medidor, se corre para comprobar que sigue
+  # midiendo. El bot solo commitea contenido/metricas.json, que no esta en
+  # esta lista, asi que no se dispara a si mismo.
+  push:
+    paths:
+      - "scripts/metricas.py"
+      - ".github/workflows/metricas.yml"
 
 permissions:
   contents: write
