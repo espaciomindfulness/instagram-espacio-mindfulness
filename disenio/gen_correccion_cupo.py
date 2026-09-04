@@ -30,10 +30,8 @@ Datos de las formaciones — FUENTE: las landings publicadas, chequeadas el
   presencial el sabado 18/12/2027 en Buenos Aires. 17 modulos en 5 bloques.
   Mindfulness clinico, ACT y Compasion bajo el marco de la Psicoterapia
   Basada en Procesos.
-  Carga horaria: 200 hs. Confirmado por Christian el 04/09/2026. OJO: la
-  landing todavia dice 250 hs certificadas — hay que corregirla ahi, porque
-  si el numero de la web y el de Instagram no coinciden, el que pregunta se
-  queda con la duda.
+  Carga horaria: 250 hs, igual que la landing. Confirmado por Christian el
+  04/09/2026. (El tablero interno dice 200: esa nota quedo vieja, no seguirla.)
 """
 from piezas import *
 
@@ -140,9 +138,9 @@ def p51_diplomado():
             "de integración con casos reales.")),
         ("post51_diplomado_5.png", cierre_cta(
             "Cohorte 2027",
-            "Doscientas horas certificadas, con numeración única "
+            "Doscientas cincuenta horas certificadas, con numeración única "
             "verificable. Escribinos y te pasamos el temario completo en PDF.",
-            "ESCRIBINOS POR WHATSAPP", "INICIO 13/04/2027 · 200 HORAS")),
+            "ESCRIBINOS POR WHATSAPP", "INICIO 13/04/2027 · 250 HORAS")),
     ]
 
 
