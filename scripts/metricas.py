@@ -66,6 +66,11 @@ def signo(n: int) -> str:
     return f"+{n}" if n > 0 else str(n)
 
 
+def fecha(texto: str) -> datetime:
+    """Una fecha guardada, ya con la zona de Buenos Aires puesta."""
+    return datetime.fromisoformat(texto).replace(tzinfo=ARG)
+
+
 def leer_historico() -> list[dict]:
     if not HISTORICO.exists():
         return []
@@ -79,8 +84,10 @@ def leer_historico() -> list[dict]:
 def mas_cercana(mediciones: list[dict], dias: int, hoy: datetime) -> dict | None:
     """La medicion mas cercana a hace `dias` dias, con 3 dias de tolerancia."""
     objetivo = hoy - timedelta(days=dias)
+    # Las fechas guardadas son "2026-09-04" pelado, o sea sin zona horaria, y
+    # restar una naive de una con zona explota. Se les pone la de Buenos Aires.
     candidatas = [
-        (abs((datetime.fromisoformat(m["fecha"]) - objetivo).days), m)
+        (abs((fecha(m["fecha"]) - objetivo).days), m)
         for m in mediciones
     ]
     candidatas = [(d, m) for d, m in candidatas if d <= 3]
@@ -124,7 +131,8 @@ def main() -> int:
             "",
         ]
     else:
-        lineas += ["| Desde | Fecha | Seguidores | Variacion |", "|---|---|---|---|"]
+        lineas += ["| Desde | Fecha | Seguidores | Variacion | Seguidos | Variacion |",
+                   "|---|---|---|---|---|---|"]
         anterior = previas[-1]
         filas = [("la medicion anterior", anterior)]
         for dias, etiqueta in ((7, "hace 7 dias"), (30, "hace 30 dias")):
@@ -132,17 +140,34 @@ def main() -> int:
             if ref and ref["fecha"] != anterior["fecha"]:
                 filas.append((etiqueta, ref))
         for etiqueta, ref in filas:
-            delta = actual["seguidores"] - ref["seguidores"]
+            d_seg = actual["seguidores"] - ref["seguidores"]
+            d_sig = actual["seguidos"] - ref.get("seguidos", actual["seguidos"])
             lineas.append(
                 f"| {etiqueta} | {ref['fecha']} | {ref['seguidores']} | "
-                f"**{signo(delta)}** |")
+                f"**{signo(d_seg)}** | {ref.get('seguidos', '?')} | {signo(d_sig)} |")
         lineas.append("")
 
         delta = actual["seguidores"] - anterior["seguidores"]
-        dias = (hoy - datetime.fromisoformat(anterior["fecha"]).replace(tzinfo=ARG)).days
+        dias = (hoy - fecha(anterior["fecha"])).days
         veredicto = "sumando" if delta > 0 else ("restando" if delta < 0 else "planchada")
         lineas += [f"En los ultimos {dias} dias la cuenta viene **{veredicto}** "
                    f"({signo(delta)}).", ""]
+
+        # Seguimiento de la depuracion de seguidos. La proporcion importa:
+        # una cuenta que sigue casi tanto como la siguen pierde alcance.
+        # Lo que se vigila no es solo que baje, sino que al bajar NO se lleve
+        # seguidores puestos — si al dejar de seguir se van, es que seguian
+        # por reciprocidad y conviene ir mas despacio.
+        bajada = anterior.get("seguidos", actual["seguidos"]) - actual["seguidos"]
+        if bajada > 0:
+            costo = ("sin costo: no se fue nadie" if delta >= 0 else
+                     f"y en el mismo periodo se fueron {abs(delta)} seguidores")
+            lineas += [
+                f"**Depuracion:** dejaste de seguir {bajada} cuentas, {costo}.", ""]
+
+    ratio = actual["seguidores"] / actual["seguidos"] if actual["seguidos"] else 0
+    lineas += [f"_Proporcion: {ratio:.2f} seguidores por cada cuenta que seguis "
+               f"(sano a partir de 3)._", ""]
 
     # Insights: el alta neta dia por dia. Solo desde 100 seguidores.
     desde = int((ahora - timedelta(days=30)).timestamp())
