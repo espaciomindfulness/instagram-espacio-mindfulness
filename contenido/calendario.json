@@ -368,11 +368,13 @@
     {
       "id": "post21-testimonio-caceres",
       "tipo": "imagen",
-      "estado": "pendiente",
+      "estado": "publicado",
       "fecha": "2026-09-05",
       "hora": "09:30",
       "caption": "«Muy buen profesional y sobre todo muy humano.»\n\nLuis lo dejó en Google. Nos quedamos con el «sobre todo»: primero profesional, y además humano. En ese orden, y las dos cosas.\n\n4.9 sobre 40 reseñas verificadas 🌿\n\nCharla gratuita en el link de la bio.\n\n#Mindfulness #MBSR #MindfulnessArgentina #SaludMental #Ansiedad #ReduccionDeEstres #EspacioMindfulness",
-      "archivo": "post21_testimonio_caceres.jpg"
+      "archivo": "post21_testimonio_caceres.jpg",
+      "publicado_en": "2026-09-05T10:36:00-03:00",
+      "media_id": "18164054002464908"
     },
     {
       "id": "post22-una-clase",
