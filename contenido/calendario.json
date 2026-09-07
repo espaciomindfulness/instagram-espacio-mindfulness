@@ -379,7 +379,7 @@
     {
       "id": "post22-una-clase",
       "tipo": "carrusel",
-      "estado": "pendiente",
+      "estado": "publicado",
       "fecha": "2026-09-07",
       "hora": "19:00",
       "caption": "«¿Y qué se hace en una clase?»\n\nMucha gente se imagina dos horas sentada en silencio sin moverse. No es eso.\n\nTe contamos cómo es un encuentro por dentro: qué se practica, qué se conversa, qué te llevás a casa y qué NO te vamos a pedir nunca 👉 deslizá.\n\n(Sí: podés no hablar en todo el programa. Y sí: se puede en silla.)\n\nCharla gratuita en el link de la bio 🌿\n\n#Mindfulness #MBSR #MindfulnessArgentina #SaludMental #Ansiedad #ReduccionDeEstres #EspacioMindfulness",
@@ -390,7 +390,9 @@
         "post22_clase_4.jpg",
         "post22_clase_5.jpg",
         "post22_clase_6.jpg"
-      ]
+      ],
+      "publicado_en": "2026-09-07T19:08:04-03:00",
+      "media_id": "18090795122655040"
     },
     {
       "id": "reel7-decidir-con-miedo",
