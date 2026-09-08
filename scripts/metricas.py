@@ -25,6 +25,7 @@ from __future__ import annotations
 
 import json
 import os
+import time
 import urllib.error
 import urllib.parse
 import urllib.request
@@ -50,16 +51,28 @@ def resumen(lineas: list[str]) -> None:
             archivo.write(texto + "\n")
 
 
-def get(ruta: str, **params) -> dict:
+def get(ruta: str, intentos: int = 3, **params) -> dict:
+    """Consulta la API. Reintenta: la API se cae de a ratos por unos minutos
+    y no tiene sentido dar por perdida la medicion de la semana por eso."""
     params["access_token"] = TOKEN
     url = f"{GRAPH}/{ruta}?{urllib.parse.urlencode(params)}"
-    try:
-        with urllib.request.urlopen(url, timeout=60) as respuesta:
-            return json.loads(respuesta.read().decode("utf-8"))
-    except urllib.error.HTTPError as exc:
-        return {"__error__": f"HTTP {exc.code}: {exc.read().decode('utf-8', 'replace')}"}
-    except urllib.error.URLError as exc:
-        return {"__error__": f"No se pudo conectar: {exc.reason}"}
+    ultimo = ""
+    for intento in range(intentos):
+        try:
+            with urllib.request.urlopen(url, timeout=60) as respuesta:
+                return json.loads(respuesta.read().decode("utf-8"))
+        except urllib.error.HTTPError as exc:
+            ultimo = f"HTTP {exc.code}: {exc.read().decode('utf-8', 'replace')}"
+            # 4xx que no sea 429 es un problema del pedido: reintentar no cambia nada.
+            if 400 <= exc.code < 500 and exc.code != 429:
+                break
+        except (urllib.error.URLError, TimeoutError) as exc:
+            ultimo = f"No se pudo conectar: {exc}"
+        except json.JSONDecodeError as exc:
+            ultimo = f"Respuesta ilegible: {exc}"
+        if intento < intentos - 1:
+            time.sleep(5 * (intento + 1))
+    return {"__error__": ultimo}
 
 
 def signo(n: int) -> str:
@@ -101,8 +114,18 @@ def main() -> int:
 
     perfil = get(IG_USER_ID, fields="username,followers_count,follows_count,media_count")
     if "__error__" in perfil:
-        resumen([f"### No pude consultar Instagram\n\n```\n{perfil['__error__']}\n```"])
-        return 1
+        # Sale en verde a proposito. Que no se pueda leer una metrica no es una
+        # falla del sistema: publicar sigue andando. Pintar Actions de rojo por
+        # esto hace que despues nadie mire cuando el rojo importa de verdad.
+        resumen([
+            "### No pude leer la cuenta esta vez",
+            "",
+            "La API no contesto despues de tres intentos. No se perdio nada: "
+            "la proxima corrida vuelve a medir.",
+            "",
+            f"```\n{perfil['__error__'][:500]}\n```",
+        ])
+        return 0
 
     ahora = datetime.now(ARG)
     hoy = ahora.replace(hour=0, minute=0, second=0, microsecond=0)
