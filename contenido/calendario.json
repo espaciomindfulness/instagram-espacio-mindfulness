@@ -409,11 +409,13 @@
     {
       "id": "post23-quien-ensenia",
       "tipo": "imagen",
-      "estado": "pendiente",
+      "estado": "publicado",
       "fecha": "2026-09-09",
       "hora": "10:00",
       "caption": "En mindfulness no hay matrícula.\n\nCualquiera puede poner «instructor de mindfulness» en su perfil mañana. No hay colegio profesional que lo regule ni examen que haya que rendir.\n\nPor eso la pregunta correcta no es «¿está formado?», sino «¿quién lo certificó, y esa institución existe fuera de su propia web?».\n\nNosotros estamos acreditados por Global Mindfulness Collaborative y enseñamos desde 2012. Chequealo. Y chequeá a cualquiera con quien vayas a formarte 🌿\n\n#Mindfulness #MBSR #MindfulnessArgentina #SaludMental #Ansiedad #ReduccionDeEstres #EspacioMindfulness",
-      "archivo": "post23_quien_ensenia.jpg"
+      "archivo": "post23_quien_ensenia.jpg",
+      "publicado_en": "2026-09-09T11:40:58-03:00",
+      "media_id": "18106667762235995"
     },
     {
       "id": "reel8-recuperar-habilidad-perdida",
