@@ -432,7 +432,7 @@
     {
       "id": "post24-ansiedad",
       "tipo": "carrusel",
-      "estado": "pendiente",
+      "estado": "publicado",
       "fecha": "2026-09-11",
       "hora": "19:00",
       "caption": "Lo que hacés para calmar la ansiedad puede estar alimentándola.\n\nBuscar en Google, evitar, pedir que te tranquilicen: todas funcionan diez minutos y te cobran después. No es falta de voluntad, son trampas que se sienten bien a corto plazo.\n\nCinco de las más comunes 👉 deslizá.\n\nEl mindfulness no elimina la ansiedad: cambia tu relación con ella. Y eso, con evidencia y práctica, se aprende.\n\nNo reemplaza un tratamiento psicológico. Si la estás pasando mal, consultá 🌿\n\n#Mindfulness #MBSR #MindfulnessArgentina #SaludMental #Ansiedad #ReduccionDeEstres #EspacioMindfulness",
@@ -444,7 +444,9 @@
         "post24_ansiedad_5.jpg",
         "post24_ansiedad_6.jpg",
         "post24_ansiedad_7.jpg"
-      ]
+      ],
+      "publicado_en": "2026-09-11T20:23:36-03:00",
+      "media_id": "18090345113668656"
     },
     {
       "id": "post25-frase-soltar",
