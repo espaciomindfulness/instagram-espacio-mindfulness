@@ -462,7 +462,7 @@
     {
       "id": "post26-anuncio-octubre",
       "tipo": "carrusel",
-      "estado": "pendiente",
+      "estado": "publicado",
       "fecha": "2026-09-15",
       "hora": "19:00",
       "caption": "Se llenó la presencial de octubre.\n\nLa última cohorte presencial del año completó sus lugares antes de lo previsto. Gracias de verdad a cada persona que escribió 🌿\n\nNo vamos a abrir vacantes extra: el grupo reducido no es un detalle de folleto, es parte de cómo funciona el programa. Con veinte personas el MBSR deja de ser MBSR.\n\nSi te quedaste afuera, tres caminos 👉 deslizá.\n\nHay lista de espera por si se libera un lugar, la próxima cohorte online arranca a principios del año que viene, y la charla gratuita de 45 minutos sigue abierta este mes.\n\nEscribinos por WhatsApp y te ubicamos donde te sirva.\n\n#Mindfulness #MBSR #MindfulnessArgentina #SaludMental #Ansiedad #ReduccionDeEstres #EspacioMindfulness",
@@ -472,7 +472,9 @@
         "post26_anuncio_3.jpg",
         "post26_anuncio_4.jpg",
         "post26_anuncio_5.jpg"
-      ]
+      ],
+      "publicado_en": "2026-09-15T19:21:59-03:00",
+      "media_id": "18234379867320989"
     },
     {
       "id": "post27-dato-harvard",
