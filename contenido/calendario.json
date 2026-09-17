@@ -479,11 +479,13 @@
     {
       "id": "post27-dato-harvard",
       "tipo": "imagen",
-      "estado": "pendiente",
+      "estado": "publicado",
       "fecha": "2026-09-17",
       "hora": "09:30",
       "caption": "El 47% del tiempo que estás despierto, tu mente está en otro lado.\n\nLo midieron Killingsworth y Gilbert en Harvard (2010), con más de 2000 personas y muestreo en tiempo real. Casi la mitad de tu vida despierta transcurre pensando en algo distinto de lo que estás haciendo.\n\nY encontraron algo más incómodo: la gente reportaba estar menos feliz cuando la mente divagaba. Incluso cuando divagaba hacia cosas agradables.\n\nLa buena noticia: la atención se entrena 🌿\n\n#Mindfulness #MBSR #MindfulnessArgentina #SaludMental #Ansiedad #ReduccionDeEstres #EspacioMindfulness",
-      "archivo": "post27_dato.jpg"
+      "archivo": "post27_dato.jpg",
+      "publicado_en": "2026-09-17T10:53:36-03:00",
+      "media_id": "18083729984314817"
     },
     {
       "id": "post28-trabajo",
