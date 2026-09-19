@@ -490,7 +490,7 @@
     {
       "id": "post28-trabajo",
       "tipo": "carrusel",
-      "estado": "pendiente",
+      "estado": "publicado",
       "fecha": "2026-09-19",
       "hora": "19:00",
       "caption": "El trabajo terminó a las 18. Tu cabeza, no.\n\nCuatro señales de que dejaste de desconectar, y ninguna aparece en la agenda 👉 deslizá.\n\nLa cuarta es la que más nos preocupa: cuando descansar te da culpa, el problema ya no es cuánto trabajás, es el estándar con el que te medís.\n\nTrabajamos con equipos hace más de diez años y con más de 40 empresas. También, uno por uno, en el programa MBSR 🌿\n\n#Mindfulness #MBSR #MindfulnessArgentina #SaludMental #Ansiedad #ReduccionDeEstres #EspacioMindfulness",
@@ -501,7 +501,9 @@
         "post28_trabajo_4.jpg",
         "post28_trabajo_5.jpg",
         "post28_trabajo_6.jpg"
-      ]
+      ],
+      "publicado_en": "2026-09-19T20:45:01-03:00",
+      "media_id": "18628330900058023"
     },
     {
       "id": "post29-egresados",
