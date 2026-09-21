@@ -508,11 +508,13 @@
     {
       "id": "post29-egresados",
       "tipo": "imagen",
-      "estado": "pendiente",
+      "estado": "publicado",
       "fecha": "2026-09-21",
       "hora": "09:30",
       "caption": "Leímos las 40 reseñas y buscamos qué se repite.\n\nNo son las técnicas de meditación. Son tres cosas: el grupo humano, que nadie sale igual de como entró, y que del otro lado hay profesionales de verdad.\n\nNos parece un buen resumen de lo que intentamos hacer desde 2012 🌿\n\n4.9 sobre 40 reseñas verificadas en Google. Están todas públicas: leelas.\n\n#Mindfulness #MBSR #MindfulnessArgentina #SaludMental #Ansiedad #ReduccionDeEstres #EspacioMindfulness",
-      "archivo": "post29_egresados.jpg"
+      "archivo": "post29_egresados.jpg",
+      "publicado_en": "2026-09-21T12:11:47-03:00",
+      "media_id": "17881320111652637"
     },
     {
       "id": "post30-elegir-formacion",
