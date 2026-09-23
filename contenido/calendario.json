@@ -519,7 +519,7 @@
     {
       "id": "post30-elegir-formacion",
       "tipo": "carrusel",
-      "estado": "pendiente",
+      "estado": "publicado",
       "fecha": "2026-09-23",
       "hora": "19:00",
       "caption": "Cinco preguntas antes de elegir dónde formarte en mindfulness.\n\nIncluida nuestra escuela: hacenoslas, que las respondemos.\n\nEn un rubro sin regulación, saber qué preguntar es tu única protección. Estas cinco separan bastante rápido lo serio de lo improvisado 👉 deslizá.\n\nPreferimos un alumno que eligió bien —aunque elija otra escuela— antes que uno que se anotó apurado y abandona en la semana tres 🌿\n\n#Mindfulness #MBSR #MindfulnessArgentina #SaludMental #Ansiedad #ReduccionDeEstres #EspacioMindfulness",
@@ -531,7 +531,9 @@
         "post30_elegir_5.jpg",
         "post30_elegir_6.jpg",
         "post30_elegir_7.jpg"
-      ]
+      ],
+      "publicado_en": "2026-09-23T20:17:40-03:00",
+      "media_id": "18011035589760688"
     },
     {
       "id": "post31-charla-gratuita",
