@@ -538,11 +538,13 @@
     {
       "id": "post31-charla-gratuita",
       "tipo": "imagen",
-      "estado": "pendiente",
+      "estado": "publicado",
       "fecha": "2026-09-25",
       "hora": "09:30",
       "caption": "45 minutos, gratis, sin que tengas que decidir nada.\n\nEn la charla contamos qué es el mindfulness, qué dice la evidencia y cómo se cursa el programa MBSR. Preguntás lo que quieras y después ves.\n\nEs el paso que recomendamos antes de anotarse a cualquier cosa: nadie debería comprometer ocho semanas de su vida con algo que no terminó de entender.\n\nLink en la bio 🌿\n\n#Mindfulness #MBSR #MindfulnessArgentina #SaludMental #Ansiedad #ReduccionDeEstres #EspacioMindfulness",
-      "archivo": "post31_charla.jpg"
+      "archivo": "post31_charla.jpg",
+      "publicado_en": "2026-09-25T10:58:21-03:00",
+      "media_id": "17896710054395836"
     },
     {
       "id": "post32-faq",
