@@ -549,7 +549,7 @@
     {
       "id": "post32-faq",
       "tipo": "carrusel",
-      "estado": "pendiente",
+      "estado": "publicado",
       "fecha": "2026-09-27",
       "hora": "19:00",
       "caption": "«No puedo quedarme quieto.» «No tengo tiempo.» «¿Tengo que creer en algo?»\n\nLas cinco dudas que más nos llegan antes de anotarse, respondidas sin vueltas 👉 deslizá.\n\nSpoiler de la primera: si no podés quedarte quieto, sos exactamente para quien está pensado el programa. Nadie llega sabiendo.\n\n¿Te quedó otra? Preguntanos por acá o por WhatsApp 🌿\n\n#Mindfulness #MBSR #MindfulnessArgentina #SaludMental #Ansiedad #ReduccionDeEstres #EspacioMindfulness",
@@ -561,7 +561,9 @@
         "post32_faq_5.jpg",
         "post32_faq_6.jpg",
         "post32_faq_7.jpg"
-      ]
+      ],
+      "publicado_en": "2026-09-27T20:10:34-03:00",
+      "media_id": "17984709072111027"
     },
     {
       "id": "post33-cierre-septiembre",
