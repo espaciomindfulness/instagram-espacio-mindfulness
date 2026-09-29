@@ -568,11 +568,13 @@
     {
       "id": "post33-cierre-septiembre",
       "tipo": "imagen",
-      "estado": "pendiente",
+      "estado": "publicado",
       "fecha": "2026-09-29",
       "hora": "19:00",
       "caption": "Instructorado en Mindfulness — Cohorte 2027.\n\nArranca el sábado 10 de abril. Un sábado al mes, de 10 a 14, de abril a diciembre: los cinco primeros encuentros en vivo por Zoom y los cuatro últimos presenciales en Villa Urquiza.\n\nEs para egresados del programa MBSR. Ese es el requisito y no es un capricho: no se enseña a guiar algo que no se transitó primero en carne propia.\n\nTrescientas horas certificadas, con numeración única verificable.\n\nLa inscripción está abierta y los cupos son limitados. Escribinos y te pasamos el temario completo de los nueve módulos 🌿\n\n#Mindfulness #MBSR #MindfulnessArgentina #Psicologia #ACT #FormacionProfesional #SaludMental #EspacioMindfulness",
-      "archivo": "post33_cierre.jpg"
+      "archivo": "post33_cierre.jpg",
+      "publicado_en": "2026-09-29T20:48:37-03:00",
+      "media_id": "18065320601786781"
     },
     {
       "id": "post37-que-es-la-ansiedad",
