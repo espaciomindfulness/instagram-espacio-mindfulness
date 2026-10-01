@@ -579,7 +579,7 @@
     {
       "id": "post37-que-es-la-ansiedad",
       "tipo": "carrusel",
-      "estado": "pendiente",
+      "estado": "publicado",
       "fecha": "2026-10-01",
       "hora": "19:00",
       "caption": "Miedo y ansiedad no son lo mismo, y la diferencia importa.\n\nEl miedo tiene objeto: aparece frente a algo concreto y se va cuando eso pasa. La ansiedad se anticipa a algo que todavía no ocurrió, y por eso no tiene final claro 👉 deslizá.\n\nLa cuarta placa es la que más cuesta aceptar: el objetivo no es que desaparezca. Buscar eliminarla del todo es, paradójicamente, lo que más ansiedad genera.\n\nEl mindfulness no promete que se vaya. Entrena la capacidad de notarla temprano y no reaccionar en automático 🌿\n\nNo reemplaza un tratamiento psicológico. Si la estás pasando mal, consultá.\n\n#Mindfulness #MBSR #MindfulnessArgentina #SaludMental #Ansiedad #ReduccionDeEstres #EspacioMindfulness",
@@ -590,7 +590,9 @@
         "post37_ansiedad_4.jpg",
         "post37_ansiedad_5.jpg",
         "post37_ansiedad_6.jpg"
-      ]
+      ],
+      "publicado_en": "2026-10-01T20:16:14-03:00",
+      "media_id": "17957449041013260"
     },
     {
       "id": "post38-frase-control",
