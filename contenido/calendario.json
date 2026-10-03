@@ -597,11 +597,13 @@
     {
       "id": "post38-frase-control",
       "tipo": "imagen",
-      "estado": "pendiente",
+      "estado": "publicado",
       "fecha": "2026-10-03",
       "hora": "09:30",
       "caption": "«Querer controlar lo incontrolable es la forma más agotadora de cuidarse.»\n\nDe «Soltar con Mindfulness», de Christian D. Arpa.\n\nCasi siempre el control excesivo empieza como cuidado: revisar, anticipar, prevenir. El problema es que lo que no depende de vos no se vuelve más seguro porque lo vigiles más — solo te cansa a vos.\n\n¿Qué estás vigilando últimamente que no depende de vos? 🌿\n\n#Mindfulness #MBSR #MindfulnessArgentina #SaludMental #Ansiedad #ReduccionDeEstres #EspacioMindfulness",
-      "archivo": "post38_frase_control.jpg"
+      "archivo": "post38_frase_control.jpg",
+      "publicado_en": "2026-10-03T11:02:40-03:00",
+      "media_id": "18346119019251434"
     },
     {
       "id": "post39-profesionales-salud",
