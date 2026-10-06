@@ -608,7 +608,7 @@
     {
       "id": "post39-profesionales-salud",
       "tipo": "carrusel",
-      "estado": "pendiente",
+      "estado": "publicado",
       "fecha": "2026-10-05",
       "hora": "19:00",
       "caption": "Si trabajás escuchando a otros, esto es distinto para vos.\n\nEl cansancio de sostener no es el de hacer, y no se recupera durmiendo más: el desgaste es atencional 👉 deslizá.\n\nLa tercera razón es la más incómoda de la profesión: no se puede enseñar regulación emocional sin entrenarla uno mismo. Los pacientes leen el estado del terapeuta antes que sus palabras.\n\nTenemos formaciones específicas para profesionales de la salud, con aval internacional. El primer paso es la charla gratuita 🌿\n\n#Mindfulness #MBSR #MindfulnessArgentina #SaludMental #Ansiedad #ReduccionDeEstres #EspacioMindfulness",
@@ -619,7 +619,9 @@
         "post39_prof_4.jpg",
         "post39_prof_5.jpg",
         "post39_prof_6.jpg"
-      ]
+      ],
+      "publicado_en": "2026-10-05T21:27:28-03:00",
+      "media_id": "18117160175055735"
     },
     {
       "id": "post40-trayectoria",
