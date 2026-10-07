@@ -85,7 +85,9 @@ def main() -> int:
     desde = int((ahora - timedelta(days=29)).timestamp())
     hasta = int(ahora.timestamp())
 
-    lineas = [f"# Altas y bajas de @espaciomindfulness",
+    # Sin el nombre de la cuenta: este script se copia a los otros repos y
+    # un titulo con el usuario cableado termina mintiendo en el repo de al lado.
+    lineas = [f"# Altas y bajas de la cuenta",
               "", f"Medido el {ahora:%d/%m/%Y %H:%M}.", ""]
 
     # 1) Altas y bajas desglosadas. Se prueban las formas que acepta la API
