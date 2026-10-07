@@ -12,6 +12,12 @@ on:
         description: "ID del reel a probar (vacio = el primero del calendario)"
         required: false
         default: ""
+  # Cada vez que entra un video nuevo al repo se prueba solo. Asi un video que
+  # Meta no puede ingerir se descubre el dia que se sube y no el dia que tenia
+  # que publicarse.
+  push:
+    paths:
+      - "contenido/publicar/*.mp4"
 
 jobs:
   probar:
