@@ -1,6 +1,6 @@
-# Altas y bajas de @espaciomindfulness
+# Altas y bajas de la cuenta
 
-Medido el 04/10/2026 12:28.
+Medido el 07/10/2026 19:56.
 
 ## Altas y bajas de los ultimos 30 dias
 
@@ -9,15 +9,12 @@ Instagram no entrego esta metrica para esta cuenta. Abajo queda lo que si se pud
 ## Altas por dia, segun si ese dia se publico
 
 - Dias **con** publicacion: 15 · 10 altas · promedio **0.67** por dia
-- Dias **sin** publicacion: 14 · 7 altas · promedio **0.50** por dia
+- Dias **sin** publicacion: 14 · 9 altas · promedio **0.64** por dia
 
-Publicar multiplica las altas por **1.3**.
+Publicar multiplica las altas por **1.0**.
 
 | Dia | Altas | ¿Se publicó? |
 |---|---:|---|
-| 2026-09-06 | +0 | — |
-| 2026-09-07 | +1 | sí |
-| 2026-09-08 | +0 | sí |
 | 2026-09-09 | +0 | sí |
 | 2026-09-10 | +0 | — |
 | 2026-09-11 | +2 | sí |
@@ -42,5 +39,8 @@ Publicar multiplica las altas por **1.3**.
 | 2026-09-30 | +1 | — |
 | 2026-10-01 | +0 | sí |
 | 2026-10-02 | +2 | — |
-| 2026-10-03 | +0 | sí |
-| 2026-10-04 | +0 | — |
+| 2026-10-03 | +1 | sí |
+| 2026-10-04 | +2 | — |
+| 2026-10-05 | +0 | sí |
+| 2026-10-06 | +0 | — |
+| 2026-10-07 | +0 | sí |
