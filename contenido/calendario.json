@@ -626,11 +626,13 @@
     {
       "id": "post40-trayectoria",
       "tipo": "imagen",
-      "estado": "pendiente",
+      "estado": "publicado",
       "fecha": "2026-10-07",
       "hora": "09:30",
       "caption": "Catorce años enseñando lo mismo, cada vez mejor.\n\nEspacio Mindfulness abrió en 2012. Desde entonces pasaron más de mil personas por nuestros programas y acompañamos a más de cuarenta empresas.\n\nEstamos acreditados por Global Mindfulness Collaborative, que es el estándar internacional para la formación de instructores de MBSR — y que hay que revalidar, no se obtiene una vez y listo.\n\nNo es una moda que tomamos. Es lo único que hacemos 🌿\n\n#Mindfulness #MBSR #MindfulnessArgentina #SaludMental #Ansiedad #ReduccionDeEstres #EspacioMindfulness",
-      "archivo": "post40_trayectoria.jpg"
+      "archivo": "post40_trayectoria.jpg",
+      "publicado_en": "2026-10-07T13:47:28-03:00",
+      "media_id": "18632603989043448"
     },
     {
       "id": "post41-dia-de-silencio",
