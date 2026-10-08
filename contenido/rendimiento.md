@@ -1,60 +1,51 @@
 # Rendimiento de @espaciomindfulness
 
-Medido el 28/09/2026 a las 16:46. 3492 seguidores al momento de medir.
+Medido el 07/10/2026 a las 23:28. 3494 seguidores al momento de medir.
 
 `% base` es el alcance como porcentaje de tus seguidores. Por debajo de 100% la publicacion ni siquiera llego a toda tu gente; muy por encima, Instagram la mostro a desconocidos.
 
 | Fecha | Tipo | Publicacion | Alcance | % base | Guard. | Comp. | Interac. | Segs. |
 |---|---|---|---:|---:|---:|---:|---:|---:|
-| 2026-09-27 | carrusel | «No puedo quedarme quieto.» «No tengo tiempo.»… | 88 | 3% | 3 | 0 | 8 | 0 |
-| 2026-09-25 | imagen | 45 minutos, gratis, sin que tengas que decidir… | 71 | 2% | 0 | 0 | 7 | 0 |
-| 2026-09-23 | carrusel | Cinco preguntas antes de elegir dónde formarte… | 101 | 3% | 0 | 0 | 3 | 0 |
-| 2026-09-21 | imagen | Leímos las 40 reseñas y buscamos qué se repite. | 136 | 4% | 0 | 0 | 5 | 0 |
-| 2026-09-19 | carrusel | El trabajo terminó a las 18. Tu cabeza, no. | 224 | 6% | 1 | 3 | 8 | 0 |
-| 2026-09-17 | imagen | El 47% del tiempo que estás despierto, tu ment… | 129 | 4% | 0 | 1 | 4 | 0 |
-| 2026-09-13 | imagen | «Soltar no es rendirse. Es dejar de gastar fue… | 230 | 7% | 1 | 2 | 16 | 0 |
-| 2026-09-11 | carrusel | Lo que hacés para calmar la ansiedad puede est… | 309 | 9% | 3 | 0 | 16 | 0 |
-| 2026-09-11 | reel | La práctica de mindfulness no genera una habil… | 99 | 3% | 0 | 0 | 2 | 0 |
-| 2026-09-09 | imagen | En mindfulness no hay matrícula. | 108 | 3% | 0 | 1 | 7 | 0 |
-| 2026-09-08 | reel | Esperar a estar tranquilo para decidir es otra… | 113 | 3% | 0 | 0 | 4 | 0 |
+| 2026-10-07 | imagen | Catorce años enseñando lo mismo, cada vez mejo… | 79 | 2% | 0 | 0 | 4 | 0 |
+| 2026-10-06 | carrusel | Si trabajás escuchando a otros, esto es distin… | 101 | 3% | 0 | 0 | 8 | 0 |
+| 2026-10-03 | imagen | «Querer controlar lo incontrolable es la forma… | 183 | 5% | 0 | 0 | 10 | 0 |
+| 2026-10-03 | imagen | Buscamos psicólogos y psicólogas para sumar a … | 597 | 17% | 13 | 8 | 34 | 0 |
+| 2026-10-01 | carrusel | Miedo y ansiedad no son lo mismo, y la diferen… | 197 | 6% | 4 | 0 | 21 | 0 |
+| 2026-09-30 | imagen | Este viernes 2/10 Espacio Mindfulness particip… | 200 | 6% | 0 | 0 | 12 | 0 |
+| 2026-09-29 | imagen | Instructorado en Mindfulness — Cohorte 2027. | 164 | 5% | 2 | 0 | 5 | 0 |
+| 2026-09-27 | carrusel | «No puedo quedarme quieto.» «No tengo tiempo.»… | 119 | 3% | 3 | 0 | 8 | 0 |
+| 2026-09-25 | imagen | 45 minutos, gratis, sin que tengas que decidir… | 90 | 3% | 0 | 0 | 7 | 0 |
+| 2026-09-23 | carrusel | Cinco preguntas antes de elegir dónde formarte… | 117 | 3% | 0 | 0 | 3 | 0 |
+| 2026-09-21 | imagen | Leímos las 40 reseñas y buscamos qué se repite. | 169 | 5% | 0 | 0 | 5 | 0 |
+| 2026-09-19 | carrusel | El trabajo terminó a las 18. Tu cabeza, no. | 236 | 7% | 1 | 3 | 8 | 0 |
+| 2026-09-17 | imagen | El 47% del tiempo que estás despierto, tu ment… | 139 | 4% | 0 | 1 | 4 | 0 |
+| 2026-09-13 | imagen | «Soltar no es rendirse. Es dejar de gastar fue… | 237 | 7% | 1 | 2 | 16 | 0 |
+| 2026-09-11 | carrusel | Lo que hacés para calmar la ansiedad puede est… | 313 | 9% | 3 | 0 | 16 | 0 |
+| 2026-09-11 | reel | La práctica de mindfulness no genera una habil… | 103 | 3% | 0 | 0 | 2 | 0 |
+| 2026-09-09 | imagen | En mindfulness no hay matrícula. | 111 | 3% | 0 | 1 | 7 | 0 |
+| 2026-09-08 | reel | Esperar a estar tranquilo para decidir es otra… | 117 | 3% | 0 | 0 | 4 | 0 |
 | 2026-09-07 | carrusel | «¿Y qué se hace en una clase?» | 119 | 3% | 0 | 0 | 7 | 0 |
-| 2026-09-05 | imagen | «Muy buen profesional y sobre todo muy humano.» | 110 | 3% | 0 | 1 | 9 | 0 |
-| 2026-09-04 | reel | Mindfulness no te apaga la mente ni te vuelve … | 93 | 3% | 0 | 0 | 4 | 0 |
-| 2026-09-03 | carrusel | Si el problema para dormir es tu cabeza y no t… | 324 | 9% | 12 | 3 | 32 | 0 |
-| 2026-09-01 | reel | "No sé qué quiero estudiar." | 85 | 2% | 0 | 0 | 4 | 0 |
-| 2026-09-01 | imagen | El dolor es inevitable. El sufrimiento, negoci… | 342 | 10% | 1 | 1 | 12 | 0 |
-| 2026-08-30 | imagen | Si venís leyéndonos todo el mes, esto es para … | 89 | 3% | 0 | 0 | 5 | 0 |
-| 2026-08-29 | carrusel | «No tengo tiempo para meditar.» | 221 | 6% | 10 | 0 | 26 | 0 |
-| 2026-08-28 | reel | ¿Te acordás qué sentiste en los pies al dar lo… | 114 | 3% | 0 | 0 | 6 | 0 |
+| 2026-09-05 | imagen | «Muy buen profesional y sobre todo muy humano.» | 111 | 3% | 0 | 1 | 9 | 0 |
 
 ## Resumen
 
-- Alcance promedio: **155** cuentas (4% de tu base).
+- Alcance promedio: **175** cuentas (5% de tu base).
 - Seguidores ganados en estas 20 publicaciones: **0**.
 
 Alcance promedio por formato:
 
-- **carrusel**: 198 (7 publicaciones)
-- **imagen**: 152 (8 publicaciones)
-- **reel**: 101 (5 publicaciones)
+- **imagen**: 189 (11 publicaciones)
+- **carrusel**: 172 (7 publicaciones)
+- **reel**: 110 (2 publicaciones)
 
-La que mas lejos llego: «El dolor es inevitable. El sufrimiento, negoci…» (imagen, 342 cuentas).
+La que mas lejos llego: «Buscamos psicólogos y psicólogas para sumar a …» (imagen, 597 cuentas).
 
 ## Seguidores dia por dia
 
-Ultimos 29 dias: **+20** neto, 15 dias en alza y 0 en baja.
+Ultimos 29 dias: **+19** neto, 15 dias en alza y 0 en baja.
 
 | Dia | Neto |
 |---|---:|
-| 2026-08-31 | +3 |
-| 2026-09-01 | +0 |
-| 2026-09-02 | +2 |
-| 2026-09-03 | +0 |
-| 2026-09-04 | +1 |
-| 2026-09-05 | +1 |
-| 2026-09-06 | +0 |
-| 2026-09-07 | +1 |
-| 2026-09-08 | +0 |
 | 2026-09-09 | +0 |
 | 2026-09-10 | +0 |
 | 2026-09-11 | +2 |
@@ -75,3 +66,12 @@ Ultimos 29 dias: **+20** neto, 15 dias en alza y 0 en baja.
 | 2026-09-26 | +1 |
 | 2026-09-27 | +0 |
 | 2026-09-28 | +0 |
+| 2026-09-29 | +1 |
+| 2026-09-30 | +1 |
+| 2026-10-01 | +0 |
+| 2026-10-02 | +2 |
+| 2026-10-03 | +1 |
+| 2026-10-04 | +2 |
+| 2026-10-05 | +0 |
+| 2026-10-06 | +0 |
+| 2026-10-07 | +0 |
