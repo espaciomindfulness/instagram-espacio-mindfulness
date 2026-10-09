@@ -637,7 +637,7 @@
     {
       "id": "post41-dia-de-silencio",
       "tipo": "carrusel",
-      "estado": "pendiente",
+      "estado": "publicado",
       "fecha": "2026-10-09",
       "hora": "19:00",
       "caption": "«¿Un día entero sin hablar?»\n\nEs la pregunta de todos cuando cuentan que el MBSR incluye una jornada de práctica intensiva 👉 deslizá.\n\nEl silencio no es una prueba de resistencia ni un requisito espiritual: es sacar una capa de ruido para que aparezca lo que estaba debajo. Las primeras horas son las difíciles; después algo se acomoda.\n\nLa mayoría lo describe como el día en que el programa dejó de ser un curso y pasó a ser una experiencia.\n\nEstá incluido desde que el MBSR se creó, en 1979. Charla gratuita en el link de la bio 🌿\n\n#Mindfulness #MBSR #MindfulnessArgentina #SaludMental #Ansiedad #ReduccionDeEstres #EspacioMindfulness",
@@ -647,7 +647,9 @@
         "post41_retiro_3.jpg",
         "post41_retiro_4.jpg",
         "post41_retiro_5.jpg"
-      ]
+      ],
+      "publicado_en": "2026-10-09T20:22:13-03:00",
+      "media_id": "17927787027184124"
     },
     {
       "id": "post42-ocho-semanas",
