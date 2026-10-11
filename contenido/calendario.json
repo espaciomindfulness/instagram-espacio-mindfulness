@@ -654,11 +654,13 @@
     {
       "id": "post42-ocho-semanas",
       "tipo": "imagen",
-      "estado": "pendiente",
+      "estado": "publicado",
       "fecha": "2026-10-11",
       "hora": "09:30",
       "caption": "Ocho semanas no es un número arbitrario.\n\nEs la duración del protocolo original de MBSR y la que usa la mayoría de los estudios que sostienen su evidencia.\n\nPor eso, cuando alguien te ofrece «MBSR en cuatro clases», lo que sea que esté ofreciendo puede estar buenísimo — pero no es MBSR.\n\nNo es purismo: es que los resultados que muestra la investigación corresponden a ese formato, no a una versión abreviada 🌿\n\n#Mindfulness #MBSR #MindfulnessArgentina #SaludMental #Ansiedad #ReduccionDeEstres #EspacioMindfulness",
-      "archivo": "post42_dato_ocho_semanas.jpg"
+      "archivo": "post42_dato_ocho_semanas.jpg",
+      "publicado_en": "2026-10-11T11:15:25-03:00",
+      "media_id": "18021287792937084"
     },
     {
       "id": "post43-anuncio-ultima-cohorte",
