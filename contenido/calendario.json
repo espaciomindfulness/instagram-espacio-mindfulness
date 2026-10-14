@@ -665,7 +665,7 @@
     {
       "id": "post43-anuncio-ultima-cohorte",
       "tipo": "carrusel",
-      "estado": "pendiente",
+      "estado": "publicado",
       "fecha": "2026-10-13",
       "hora": "19:00",
       "caption": "Hiciste el MBSR. ¿Y si el próximo paso es enseñarlo?\n\nEl Instructorado en Mindfulness 2027 arranca el sábado 10 de abril 👉 deslizá.\n\nUn sábado al mes de 10 a 14, de abril a diciembre. Nueve módulos: los cinco primeros en vivo por Zoom y los cuatro últimos presenciales en Villa Urquiza.\n\nSe ve manejo de grupos y rol del instructor, neuroeducación, mindfulness con niños, psicodeporte, mindfulness empresarial, diseño de talleres —MBSR, MBCT y MSC— y prácticas compasivas. Trescientas horas certificadas.\n\nY la advertencia que hacemos siempre, incluso si elegís formarte en otro lado: en mindfulness no hay matrícula ni colegio que regule. Cualquiera puede llamarse instructor mañana. Antes de anotarte donde sea, preguntá quién dirige la formación y con qué acreditación.\n\nAcá la dirección académica es del Lic. Christian Arpa, psicólogo (UBA) y MBSR Teacher acreditado por Global Mindfulness Collaborative.\n\nEscribinos por WhatsApp y te pasamos el temario completo 🌿\n\n#Mindfulness #MBSR #MindfulnessArgentina #Psicologia #ACT #FormacionProfesional #SaludMental #EspacioMindfulness",
@@ -675,7 +675,9 @@
         "post43_anuncio_3.jpg",
         "post43_anuncio_4.jpg",
         "post43_anuncio_5.jpg"
-      ]
+      ],
+      "publicado_en": "2026-10-13T21:43:15-03:00",
+      "media_id": "18141351025620562"
     },
     {
       "id": "post44-ultima-llamada",
