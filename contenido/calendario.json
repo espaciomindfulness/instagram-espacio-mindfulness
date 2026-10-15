@@ -682,11 +682,13 @@
     {
       "id": "post44-ultima-llamada",
       "tipo": "imagen",
-      "estado": "pendiente",
+      "estado": "publicado",
       "fecha": "2026-10-15",
       "hora": "09:30",
       "caption": "Mañana arranca la presencial, con el cupo completo.\n\nFue la última cohorte presencial del año y se llenó. Gracias 🌿\n\nSi te quedaste afuera, no se termina acá:\n\n· Hay lista de espera, por si se libera un lugar.\n· La próxima cohorte online arranca a principios del año que viene.\n· La charla gratuita de 45 minutos sigue abierta todo el mes.\n\nY si lo tuyo es formarte para enseñar, el Instructorado 2027 arranca el 10 de abril y el Diplomado el 13. Los dos con inscripción abierta.\n\nEscribinos por WhatsApp y vemos cuál te sirve.\n\n#Mindfulness #MBSR #MindfulnessArgentina #SaludMental #Ansiedad #ReduccionDeEstres #EspacioMindfulness",
-      "archivo": "post44_ultima_llamada.jpg"
+      "archivo": "post44_ultima_llamada.jpg",
+      "publicado_en": "2026-10-15T12:54:43-03:00",
+      "media_id": "17925752739200327"
     },
     {
       "id": "post45-ocho-semanas-por-dentro",
