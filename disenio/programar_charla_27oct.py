@@ -31,6 +31,11 @@ CAPTION = (
  "💻 Online por Zoom · 1 hora\n"
  "🎟️ Inscripción gratuita · cupos limitados\n\n"
  "El link de inscripción está en la bio.\n\n"
+ # Pedir la etiqueta explicitamente: el aviso de busqueda laboral que trajo
+ # +115 seguidores viajaba porque la gente etiquetaba a quien le servia. Un
+ # flyer no lo hace solo si no se lo pedis.
+ "Y si se te viene a la cabeza un colega al que le sirva, etiquetalo acá "
+ "abajo — es gratis y los cupos vuelan.\n\n"
  "A cargo del Lic. Christian Arpa — Psicólogo (UBA), MBSR Teacher acreditado "
  "por Global Mindfulness Collaborative y especialista en ACT. Fundador y "
  "director de Espacio Mindfulness.\n\n"
