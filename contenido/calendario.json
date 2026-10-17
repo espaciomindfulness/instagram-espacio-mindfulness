@@ -693,7 +693,7 @@
     {
       "id": "post45-ocho-semanas-por-dentro",
       "tipo": "carrusel",
-      "estado": "pendiente",
+      "estado": "publicado",
       "fecha": "2026-10-17",
       "hora": "19:00",
       "caption": "Qué pasa, semana por semana, en un programa de MBSR.\n\nAyer arrancó la última cohorte presencial del año — con el cupo completo — así que aprovechamos para contarte el recorrido completo por dentro 👉 deslizá.\n\nFijate el orden: primero darse cuenta del piloto automático, después el cuerpo, después lo difícil, y recién al final cómo sostenerlo solo. Esa última parte es la que decide si el programa te cambia algo o queda como un recuerdo lindo.\n\nSi querés hacerlo, la próxima cohorte online arranca a principios del año que viene. Empezá por la charla gratuita 🌿\n\n#Mindfulness #MBSR #MindfulnessArgentina #SaludMental #Ansiedad #ReduccionDeEstres #EspacioMindfulness",
@@ -704,7 +704,9 @@
         "post45_semanas_4.jpg",
         "post45_semanas_5.jpg",
         "post45_semanas_6.jpg"
-      ]
+      ],
+      "publicado_en": "2026-10-17T20:14:02-03:00",
+      "media_id": "17970763998172928"
     },
     {
       "id": "post53-charla-27oct",
