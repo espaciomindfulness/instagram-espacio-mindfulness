@@ -722,11 +722,13 @@
     {
       "id": "post46-frase-volver",
       "tipo": "imagen",
-      "estado": "pendiente",
+      "estado": "publicado",
       "fecha": "2026-10-19",
       "hora": "09:30",
       "caption": "«Volver es la práctica. Irse era inevitable.»\n\nDe «Soltar con Mindfulness», de Christian D. Arpa.\n\nMucha gente abandona la meditación convencida de que la hace mal, porque se distrae. Pero distraerse no es el error: es lo que la mente hace.\n\nEl ejercicio no es quedarse. Es darse cuenta de que te fuiste, y volver. Cuantas más veces te vas y volvés, más entrenás 🌿\n\n#Mindfulness #MBSR #MindfulnessArgentina #SaludMental #Ansiedad #ReduccionDeEstres #EspacioMindfulness",
-      "archivo": "post46_frase_volver.jpg"
+      "archivo": "post46_frase_volver.jpg",
+      "publicado_en": "2026-10-19T14:04:25-03:00",
+      "media_id": "18132842692741278"
     },
     {
       "id": "post47-sostener-la-practica",
