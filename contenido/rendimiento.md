@@ -1,58 +1,50 @@
 # Rendimiento de @espaciomindfulness
 
-Medido el 12/10/2026 a las 18:21. 3497 seguidores al momento de medir.
+Medido el 19/10/2026 a las 15:47. 3720 seguidores al momento de medir.
 
 `% base` es el alcance como porcentaje de tus seguidores. Por debajo de 100% la publicacion ni siquiera llego a toda tu gente; muy por encima, Instagram la mostro a desconocidos.
 
 | Fecha | Tipo | Publicacion | Alcance | % base | Guard. | Comp. | Interac. | Segs. |
 |---|---|---|---:|---:|---:|---:|---:|---:|
-| 2026-10-11 | imagen | Ocho semanas no es un número arbitrario. | 93 | 3% | 0 | 0 | 5 | 0 |
-| 2026-10-09 | carrusel | «¿Un día entero sin hablar?» | 141 | 4% | 0 | 0 | 7 | 0 |
-| 2026-10-07 | imagen | Catorce años enseñando lo mismo, cada vez mejo… | 114 | 3% | 0 | 0 | 4 | 0 |
-| 2026-10-06 | carrusel | Si trabajás escuchando a otros, esto es distin… | 123 | 4% | 0 | 0 | 8 | 0 |
-| 2026-10-03 | imagen | «Querer controlar lo incontrolable es la forma… | 199 | 6% | 0 | 0 | 10 | 0 |
-| 2026-10-03 | imagen | Buscamos psicólogos y psicólogas para sumar a … | 642 | 18% | 13 | 8 | 34 | 0 |
-| 2026-10-01 | carrusel | Miedo y ansiedad no son lo mismo, y la diferen… | 209 | 6% | 4 | 0 | 21 | 0 |
-| 2026-09-30 | imagen | Este viernes 2/10 Espacio Mindfulness particip… | 209 | 6% | 0 | 0 | 12 | 0 |
-| 2026-09-29 | imagen | Instructorado en Mindfulness — Cohorte 2027. | 170 | 5% | 2 | 0 | 5 | 0 |
-| 2026-09-27 | carrusel | «No puedo quedarme quieto.» «No tengo tiempo.»… | 122 | 3% | 3 | 0 | 8 | 0 |
-| 2026-09-25 | imagen | 45 minutos, gratis, sin que tengas que decidir… | 90 | 3% | 0 | 0 | 7 | 0 |
-| 2026-09-23 | carrusel | Cinco preguntas antes de elegir dónde formarte… | 117 | 3% | 0 | 0 | 3 | 0 |
-| 2026-09-21 | imagen | Leímos las 40 reseñas y buscamos qué se repite. | 169 | 5% | 0 | 0 | 5 | 0 |
-| 2026-09-19 | carrusel | El trabajo terminó a las 18. Tu cabeza, no. | 236 | 7% | 1 | 3 | 8 | 0 |
-| 2026-09-17 | imagen | El 47% del tiempo que estás despierto, tu ment… | 139 | 4% | 0 | 1 | 4 | 0 |
-| 2026-09-13 | imagen | «Soltar no es rendirse. Es dejar de gastar fue… | 237 | 7% | 1 | 2 | 16 | 0 |
-| 2026-09-11 | carrusel | Lo que hacés para calmar la ansiedad puede est… | 313 | 9% | 3 | 0 | 16 | 0 |
-| 2026-09-11 | reel | La práctica de mindfulness no genera una habil… | 103 | 3% | 0 | 0 | 2 | 0 |
-| 2026-09-09 | imagen | En mindfulness no hay matrícula. | 111 | 3% | 0 | 1 | 7 | 0 |
-| 2026-09-08 | reel | Esperar a estar tranquilo para decidir es otra… | 118 | 3% | 0 | 0 | 4 | 0 |
+| 2026-10-19 | imagen | «Volver es la práctica. Irse era inevitable.» | 39 | 1% | 0 | 0 | 1 | 0 |
+| 2026-10-18 | imagen | Charla abierta y gratuita para psicólogos/as y… | 164 | 4% | 2 | 0 | 8 | 0 |
+| 2026-10-17 | carrusel | Qué pasa, semana por semana, en un programa de… | 105 | 3% | 1 | 0 | 6 | 0 |
+| 2026-10-15 | imagen | Mañana arranca la presencial, con el cupo comp… | 181 | 5% | 0 | 0 | 6 | 0 |
+| 2026-10-14 | imagen | Hermos grupo que finalizo su proceso de entren… | 804 | 22% | 0 | 0 | 17 | 0 |
+| 2026-10-14 | carrusel | Hiciste el MBSR. ¿Y si el próximo paso es ense… | 284 | 8% | 1 | 0 | 7 | 0 |
+| 2026-10-13 | imagen | ¡Feliz Día del Psicólogo/a! 💜 | 174 | 5% | 0 | 0 | 10 | 0 |
+| 2026-10-11 | imagen | Ocho semanas no es un número arbitrario. | 220 | 6% | 0 | 0 | 7 | 0 |
+| 2026-10-09 | carrusel | «¿Un día entero sin hablar?» | 226 | 6% | 0 | 0 | 8 | 0 |
+| 2026-10-07 | imagen | Catorce años enseñando lo mismo, cada vez mejo… | 184 | 5% | 0 | 0 | 5 | 0 |
+| 2026-10-06 | carrusel | Si trabajás escuchando a otros, esto es distin… | 179 | 5% | 0 | 0 | 8 | 0 |
+| 2026-10-03 | imagen | «Querer controlar lo incontrolable es la forma… | 268 | 7% | 0 | 0 | 11 | 0 |
+| 2026-10-03 | imagen | Buscamos psicólogos y psicólogas para sumar a … | 16060 | 432% | 149 | 285 | 634 | 199 |
+| 2026-10-01 | carrusel | Miedo y ansiedad no son lo mismo, y la diferen… | 268 | 7% | 6 | 0 | 24 | 0 |
+| 2026-09-30 | imagen | Este viernes 2/10 Espacio Mindfulness particip… | 234 | 6% | 0 | 0 | 12 | 0 |
+| 2026-09-29 | imagen | Instructorado en Mindfulness — Cohorte 2027. | 188 | 5% | 2 | 0 | 5 | 0 |
+| 2026-09-27 | carrusel | «No puedo quedarme quieto.» «No tengo tiempo.»… | 136 | 4% | 3 | 0 | 8 | 0 |
+| 2026-09-25 | imagen | 45 minutos, gratis, sin que tengas que decidir… | 101 | 3% | 0 | 0 | 7 | 0 |
+| 2026-09-23 | carrusel | Cinco preguntas antes de elegir dónde formarte… | 126 | 3% | 0 | 0 | 3 | 0 |
+| 2026-09-21 | imagen | Leímos las 40 reseñas y buscamos qué se repite. | 180 | 5% | 0 | 0 | 5 | 0 |
 
 ## Resumen
 
-- Alcance promedio: **183** cuentas (5% de tu base).
-- Seguidores ganados en estas 20 publicaciones: **0**.
+- Alcance promedio: **1006** cuentas (27% de tu base).
+- Seguidores ganados en estas 20 publicaciones: **199**.
 
 Alcance promedio por formato:
 
-- **imagen**: 198 (11 publicaciones)
-- **carrusel**: 180 (7 publicaciones)
-- **reel**: 110 (2 publicaciones)
+- **imagen**: 1446 (13 publicaciones)
+- **carrusel**: 189 (7 publicaciones)
 
-La que mas lejos llego: «Buscamos psicólogos y psicólogas para sumar a …» (imagen, 642 cuentas).
+La que mas lejos llego: «Buscamos psicólogos y psicólogas para sumar a …» (imagen, 16060 cuentas).
 
 ## Seguidores dia por dia
 
-Ultimos 29 dias: **+22** neto, 17 dias en alza y 0 en baja.
+Ultimos 29 dias: **+226** neto, 19 dias en alza y 0 en baja.
 
 | Dia | Neto |
 |---|---:|
-| 2026-09-14 | +1 |
-| 2026-09-15 | +1 |
-| 2026-09-16 | +0 |
-| 2026-09-17 | +1 |
-| 2026-09-18 | +0 |
-| 2026-09-19 | +0 |
-| 2026-09-20 | +1 |
 | 2026-09-21 | +2 |
 | 2026-09-22 | +0 |
 | 2026-09-23 | +1 |
@@ -74,4 +66,11 @@ Ultimos 29 dias: **+22** neto, 17 dias en alza y 0 en baja.
 | 2026-10-09 | +2 |
 | 2026-10-10 | +1 |
 | 2026-10-11 | +0 |
-| 2026-10-12 | +0 |
+| 2026-10-12 | +1 |
+| 2026-10-13 | +2 |
+| 2026-10-14 | +29 |
+| 2026-10-15 | +87 |
+| 2026-10-16 | +60 |
+| 2026-10-17 | +29 |
+| 2026-10-18 | +0 |
+| 2026-10-19 | +0 |
