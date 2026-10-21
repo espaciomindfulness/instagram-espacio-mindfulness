@@ -733,7 +733,7 @@
     {
       "id": "post47-sostener-la-practica",
       "tipo": "carrusel",
-      "estado": "pendiente",
+      "estado": "publicado",
       "fecha": "2026-10-21",
       "hora": "19:00",
       "caption": "Dejaste de practicar hace tres semanas. ¿Y ahora?\n\nLe pasa a todo el mundo, y lo que hace daño no es el corte: es la idea de que hay que «empezar de nuevo» 👉 deslizá.\n\nCuatro cosas que ayudan a retomar, y ninguna requiere fuerza de voluntad. La segunda es la más contraintuitiva: bajá el mínimo, no la frecuencia. Tres minutos todos los días le ganan a treinta cuando se pueda.\n\nVolvé sin culpa. Notar que te fuiste y volver ES la práctica 🌿\n\n#Mindfulness #MBSR #MindfulnessArgentina #SaludMental #Ansiedad #ReduccionDeEstres #EspacioMindfulness",
@@ -744,7 +744,9 @@
         "post47_sostener_4.jpg",
         "post47_sostener_5.jpg",
         "post47_sostener_6.jpg"
-      ]
+      ],
+      "publicado_en": "2026-10-21T19:52:11-03:00",
+      "media_id": "18481542700116930"
     },
     {
       "id": "post48-charla-gratuita",
