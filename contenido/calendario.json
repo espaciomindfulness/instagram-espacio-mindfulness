@@ -751,11 +751,13 @@
     {
       "id": "post48-charla-gratuita",
       "tipo": "imagen",
-      "estado": "pendiente",
+      "estado": "publicado",
       "fecha": "2026-10-23",
       "hora": "09:30",
       "caption": "Antes de anotarte a nada, vení a preguntar.\n\nLa charla gratuita dura 45 minutos, es online y no te compromete a nada: contamos qué es el mindfulness, qué dice la evidencia y cómo se cursa el programa MBSR.\n\nPreguntás lo que quieras y después decidís. No te vamos a llamar por teléfono ni a insistirte por mail.\n\nEs el paso que recomendamos antes de comprometer ocho semanas de tu vida con algo que todavía no entendés del todo. Link en la bio 🌿\n\n#Mindfulness #MBSR #MindfulnessArgentina #SaludMental #Ansiedad #ReduccionDeEstres #EspacioMindfulness",
-      "archivo": "post48_charla.jpg"
+      "archivo": "post48_charla.jpg",
+      "publicado_en": "2026-10-23T09:56:09-03:00",
+      "media_id": "17900510112606685"
     },
     {
       "id": "reel9-el-mapa",
