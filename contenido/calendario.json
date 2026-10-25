@@ -773,7 +773,7 @@
     {
       "id": "post49-errores-al-empezar",
       "tipo": "carrusel",
-      "estado": "pendiente",
+      "estado": "publicado",
       "fecha": "2026-10-25",
       "hora": "19:00",
       "caption": "Cinco errores al empezar a meditar. Los cometimos todos.\n\nSon los que hacen que la mayoría abandone en la segunda semana, y ninguno tiene que ver con falta de disciplina 👉 deslizá.\n\nEl tercero es el más frecuente: practicar solo cuando estás mal. Es como entrenar el día del partido. La práctica sirve justamente porque se hace también los días en que no hace falta.\n\nY el quinto explica por qué el MBSR es grupal y guiado: no es un detalle organizativo, es parte del método 🌿\n\n#Mindfulness #MBSR #MindfulnessArgentina #SaludMental #Ansiedad #ReduccionDeEstres #EspacioMindfulness",
@@ -785,7 +785,9 @@
         "post49_errores_5.jpg",
         "post49_errores_6.jpg",
         "post49_errores_7.jpg"
-      ]
+      ],
+      "publicado_en": "2026-10-25T20:23:13-03:00",
+      "media_id": "18086195348328909"
     },
     {
       "id": "post50-libro",
