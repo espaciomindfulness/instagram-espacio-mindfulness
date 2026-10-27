@@ -792,11 +792,13 @@
     {
       "id": "post50-libro",
       "tipo": "imagen",
-      "estado": "pendiente",
+      "estado": "publicado",
       "fecha": "2026-10-27",
       "hora": "09:30",
       "caption": "«Soltar con Mindfulness» — Christian D. Arpa\n\nMás de cien páginas para entender de qué se trata esto, con ejercicios concretos y lineamientos para sostener la práctica en el tiempo.\n\nLo escribió nuestro director: psicólogo (UBA), instructor MBSR certificado por Global Mindfulness Collaborative y con catorce años enseñando en Argentina.\n\nNo es un libro de frases lindas. Se consigue en Mercado Libre y en Amazon 📖 Link en la bio.\n\n#Mindfulness #MBSR #MindfulnessArgentina #SaludMental #Ansiedad #ReduccionDeEstres #EspacioMindfulness",
-      "archivo": "post50_libro.jpg"
+      "archivo": "post50_libro.jpg",
+      "publicado_en": "2026-10-27T11:43:56-03:00",
+      "media_id": "17944629180091043"
     },
     {
       "id": "reel10-no-alcanza-un-video",
