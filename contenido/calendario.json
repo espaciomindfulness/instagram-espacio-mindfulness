@@ -803,11 +803,13 @@
     {
       "id": "reel10-no-alcanza-un-video",
       "tipo": "reel",
-      "estado": "pendiente",
+      "estado": "publicado",
       "fecha": "2026-10-27",
       "hora": "13:00",
       "archivo": "10_no_alcanza_un_video.mp4",
-      "caption": "Un mapa lo entendés rápido. Dominarlo en la clínica es otra cosa.\n\nLeer en tiempo real lo que le pasa al paciente, elegir el proceso justo e integrarlo en la sesión sin que se vuelva una receta: eso no se aprende mirando un video.\n\nLa teoría la podés estudiar sola, a tu ritmo, frente a una pantalla. La clínica se entrena en vivo: casos, role-playing, supervisión, alguien que te devuelve lo que hiciste bien y lo que conviene ajustar.\n\nLas dos cosas hacen falta.\n\nPasado mañana contamos cómo es el Diplomado 2027 por dentro.\n\n—\nFragmento de una charla sobre psicoterapia basada en procesos.\n\nLic. Christian D. Arpa · Psicólogo (UBA) · MBSR Teacher (Global Mindfulness Collaborative)\nDirector del Diplomado en Psicoterapia Basada en Procesos\nEspacio Mindfulness — institución acreditada por GMC\n\n#psicologia #act #mindfulness #mbsr #psicoterapia #saludmental #formacionprofesional"
+      "caption": "Un mapa lo entendés rápido. Dominarlo en la clínica es otra cosa.\n\nLeer en tiempo real lo que le pasa al paciente, elegir el proceso justo e integrarlo en la sesión sin que se vuelva una receta: eso no se aprende mirando un video.\n\nLa teoría la podés estudiar sola, a tu ritmo, frente a una pantalla. La clínica se entrena en vivo: casos, role-playing, supervisión, alguien que te devuelve lo que hiciste bien y lo que conviene ajustar.\n\nLas dos cosas hacen falta.\n\nPasado mañana contamos cómo es el Diplomado 2027 por dentro.\n\n—\nFragmento de una charla sobre psicoterapia basada en procesos.\n\nLic. Christian D. Arpa · Psicólogo (UBA) · MBSR Teacher (Global Mindfulness Collaborative)\nDirector del Diplomado en Psicoterapia Basada en Procesos\nEspacio Mindfulness — institución acreditada por GMC\n\n#psicologia #act #mindfulness #mbsr #psicoterapia #saludmental #formacionprofesional",
+      "publicado_en": "2026-10-27T16:44:17-03:00",
+      "media_id": "18097672247222960"
     },
     {
       "id": "post51-diplomado-2027",
