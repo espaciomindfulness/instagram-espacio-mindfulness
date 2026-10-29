@@ -1,0 +1,53 @@
+name: Probar posteo colaborativo
+
+# Averigua si graph.instagram.com acepta el parametro `collaborators`, que es
+# lo que permitiria publicar en colaboracion con @chris.mind2 desde el
+# calendario. No publica nada: solo crea contenedores de prueba, que Meta
+# descarta solos a las 24 h.
+
+on:
+  workflow_dispatch:
+    inputs:
+      colaborador:
+        description: "Usuario con el que colaborar"
+        default: "chris.mind2"
+  push:
+    paths:
+      - "scripts/probar_colaboracion.py"
+      - ".github/workflows/probar_colaboracion.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  probar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Crear los contenedores de prueba
+        env:
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          IG_BASE_URL: https://raw.githubusercontent.com/${{ github.repository }}/${{ github.ref_name }}/contenido/publicar
+          IG_COLABORADOR: ${{ inputs.colaborador || 'chris.mind2' }}
+        run: python scripts/probar_colaboracion.py
+
+      - name: Guardar el resultado
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add contenido/prueba_colaboracion.md
+          git diff --cached --quiet && exit 0
+          git commit -m "Prueba de posteo colaborativo [skip ci]"
+          for intento in 1 2 3 4 5; do
+            git pull --rebase origin main || exit 1
+            git push && exit 0
+            echo "push rechazado, reintento $intento"
+            sleep $((RANDOM % 8 + 3))
+          done
+          exit 1
