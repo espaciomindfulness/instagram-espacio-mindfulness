@@ -831,11 +831,13 @@
     {
       "id": "post52-cierre-octubre",
       "tipo": "imagen",
-      "estado": "pendiente",
+      "estado": "publicado",
       "fecha": "2026-10-31",
       "hora": "09:30",
       "caption": "Si venís leyéndonos todo el mes, esto es para vos.\n\nNo hace falta esperar a enero ni al lunes que viene. La charla gratuita dura 45 minutos, es online y no te compromete a nada: contamos cómo funciona el programa y vos ves si es tu momento o no.\n\nA veces la respuesta es «todavía no», y está perfecto. Pero es mejor saberlo después de preguntar que después de un año de dar vueltas.\n\nLink en la bio 🌿\n\n#Mindfulness #MBSR #MindfulnessArgentina #SaludMental #Ansiedad #ReduccionDeEstres #EspacioMindfulness",
-      "archivo": "post52_cierre.jpg"
+      "archivo": "post52_cierre.jpg",
+      "publicado_en": "2026-10-31T09:51:57-03:00",
+      "media_id": "18071648765769456"
     }
   ]
 }
