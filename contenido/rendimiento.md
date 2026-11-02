@@ -1,58 +1,51 @@
 # Rendimiento de @espaciomindfulness
 
-Medido el 26/10/2026 a las 15:47. 3815 seguidores al momento de medir.
+Medido el 02/11/2026 a las 18:51. 3833 seguidores al momento de medir.
 
 `% base` es el alcance como porcentaje de tus seguidores. Por debajo de 100% la publicacion ni siquiera llego a toda tu gente; muy por encima, Instagram la mostro a desconocidos.
 
 | Fecha | Tipo | Publicacion | Alcance | % base | Guard. | Comp. | Interac. | Segs. |
 |---|---|---|---:|---:|---:|---:|---:|---:|
-| 2026-10-25 | carrusel | Cinco errores al empezar a meditar. Los cometi… | 116 | 3% | 1 | 0 | 7 | 0 |
-| 2026-10-23 | reel | Si trabajás en salud mental, este es para vos. | 253 | 7% | 3 | 2 | 15 | 0 |
-| 2026-10-23 | imagen | Antes de anotarte a nada, vení a preguntar. | 169 | 4% | 0 | 0 | 6 | 0 |
-| 2026-10-22 | imagen | CHARLA GRATUITA para psicólogos y psicólogas 🧠 | 161 | 4% | 0 | 1 | 6 | 0 |
-| 2026-10-21 | carrusel | Dejaste de practicar hace tres semanas. ¿Y aho… | 131 | 3% | 3 | 0 | 9 | 0 |
-| 2026-10-19 | imagen | «Volver es la práctica. Irse era inevitable.» | 229 | 6% | 0 | 2 | 9 | 0 |
-| 2026-10-18 | imagen | Charla abierta y gratuita para psicólogos/as y… | 234 | 6% | 2 | 0 | 9 | 0 |
-| 2026-10-17 | carrusel | Qué pasa, semana por semana, en un programa de… | 148 | 4% | 1 | 0 | 6 | 0 |
-| 2026-10-15 | imagen | Mañana arranca la presencial, con el cupo comp… | 218 | 6% | 0 | 0 | 6 | 0 |
-| 2026-10-14 | imagen | Hermos grupo que finalizo su proceso de entren… | 870 | 23% | 0 | 0 | 17 | 0 |
-| 2026-10-14 | carrusel | Hiciste el MBSR. ¿Y si el próximo paso es ense… | 315 | 8% | 1 | 0 | 8 | 0 |
-| 2026-10-13 | imagen | ¡Feliz Día del Psicólogo/a! 💜 | 200 | 5% | 0 | 0 | 10 | 0 |
+| 2026-10-31 | imagen | Si venís leyéndonos todo el mes, esto es para … | 130 | 3% | 0 | 0 | 4 | 0 |
+| 2026-10-29 | carrusel | Diplomado en Psicoterapia Basada en Procesos —… | 83 | 2% | 0 | 0 | 4 | 0 |
+| 2026-10-29 | imagen | 🧘‍♂️ Prácticas Contemplativas · Noviembre | 229 | 6% | 0 | 0 | 13 | 0 |
+| 2026-10-27 | reel | Un mapa lo entendés rápido. Dominarlo en la cl… | 95 | 2% | 0 | 0 | 2 | 0 |
+| 2026-10-25 | carrusel | Cinco errores al empezar a meditar. Los cometi… | 157 | 4% | 4 | 0 | 11 | 0 |
+| 2026-10-23 | reel | Si trabajás en salud mental, este es para vos. | 278 | 7% | 5 | 2 | 18 | 0 |
+| 2026-10-23 | imagen | Antes de anotarte a nada, vení a preguntar. | 194 | 5% | 0 | 0 | 6 | 0 |
+| 2026-10-22 | imagen | CHARLA GRATUITA para psicólogos y psicólogas 🧠 | 173 | 5% | 0 | 1 | 6 | 0 |
+| 2026-10-21 | carrusel | Dejaste de practicar hace tres semanas. ¿Y aho… | 144 | 4% | 3 | 0 | 9 | 0 |
+| 2026-10-19 | imagen | «Volver es la práctica. Irse era inevitable.» | 232 | 6% | 0 | 2 | 9 | 0 |
+| 2026-10-18 | imagen | Charla abierta y gratuita para psicólogos/as y… | 242 | 6% | 2 | 0 | 9 | 0 |
+| 2026-10-17 | carrusel | Qué pasa, semana por semana, en un programa de… | 150 | 4% | 1 | 0 | 6 | 0 |
+| 2026-10-15 | imagen | Mañana arranca la presencial, con el cupo comp… | 220 | 6% | 0 | 0 | 6 | 0 |
+| 2026-10-14 | imagen | Hermos grupo que finalizo su proceso de entren… | 878 | 23% | 0 | 0 | 17 | 0 |
+| 2026-10-14 | carrusel | Hiciste el MBSR. ¿Y si el próximo paso es ense… | 317 | 8% | 1 | 0 | 8 | 0 |
+| 2026-10-13 | imagen | ¡Feliz Día del Psicólogo/a! 💜 | 202 | 5% | 0 | 0 | 10 | 0 |
 | 2026-10-11 | imagen | Ocho semanas no es un número arbitrario. | 246 | 6% | 0 | 0 | 7 | 0 |
-| 2026-10-09 | carrusel | «¿Un día entero sin hablar?» | 246 | 6% | 0 | 0 | 8 | 0 |
-| 2026-10-07 | imagen | Catorce años enseñando lo mismo, cada vez mejo… | 195 | 5% | 0 | 0 | 5 | 0 |
-| 2026-10-06 | carrusel | Si trabajás escuchando a otros, esto es distin… | 189 | 5% | 0 | 0 | 8 | 0 |
-| 2026-10-03 | imagen | «Querer controlar lo incontrolable es la forma… | 277 | 7% | 0 | 0 | 11 | 0 |
-| 2026-10-03 | imagen | Buscamos psicólogos y psicólogas para sumar a … | 22283 | 584% | 193 | 409 | 866 | 290 |
-| 2026-10-01 | carrusel | Miedo y ansiedad no son lo mismo, y la diferen… | 276 | 7% | 6 | 0 | 24 | 0 |
-| 2026-09-30 | imagen | Este viernes 2/10 Espacio Mindfulness particip… | 241 | 6% | 0 | 0 | 12 | 0 |
+| 2026-10-09 | carrusel | «¿Un día entero sin hablar?» | 247 | 6% | 0 | 0 | 8 | 0 |
+| 2026-10-07 | imagen | Catorce años enseñando lo mismo, cada vez mejo… | 196 | 5% | 0 | 0 | 5 | 0 |
+| 2026-10-06 | carrusel | Si trabajás escuchando a otros, esto es distin… | 190 | 5% | 0 | 0 | 8 | 0 |
 
 ## Resumen
 
-- Alcance promedio: **1350** cuentas (35% de tu base).
-- Seguidores ganados en estas 20 publicaciones: **290**.
+- Alcance promedio: **230** cuentas (6% de tu base).
+- Seguidores ganados en estas 20 publicaciones: **0**.
 
 Alcance promedio por formato:
 
-- **imagen**: 2110 (12 publicaciones)
-- **reel**: 253 (1 publicaciones)
-- **carrusel**: 203 (7 publicaciones)
+- **imagen**: 267 (11 publicaciones)
+- **reel**: 186 (2 publicaciones)
+- **carrusel**: 184 (7 publicaciones)
 
-La que mas lejos llego: «Buscamos psicólogos y psicólogas para sumar a …» (imagen, 22283 cuentas).
+La que mas lejos llego: «Hermos grupo que finalizo su proceso de entren…» (imagen, 878 cuentas).
 
 ## Seguidores dia por dia
 
-Ultimos 29 dias: **+341** neto, 22 dias en alza y 0 en baja.
+Ultimos 29 dias: **+361** neto, 25 dias en alza y 0 en baja.
 
 | Dia | Neto |
 |---|---:|
-| 2026-09-28 | +0 |
-| 2026-09-29 | +1 |
-| 2026-09-30 | +1 |
-| 2026-10-01 | +0 |
-| 2026-10-02 | +2 |
-| 2026-10-03 | +1 |
-| 2026-10-04 | +2 |
 | 2026-10-05 | +0 |
 | 2026-10-06 | +0 |
 | 2026-10-07 | +2 |
@@ -73,5 +66,12 @@ Ultimos 29 dias: **+341** neto, 22 dias en alza y 0 en baja.
 | 2026-10-22 | +25 |
 | 2026-10-23 | +17 |
 | 2026-10-24 | +12 |
-| 2026-10-25 | +0 |
-| 2026-10-26 | +0 |
+| 2026-10-25 | +3 |
+| 2026-10-26 | +4 |
+| 2026-10-27 | +6 |
+| 2026-10-28 | +6 |
+| 2026-10-29 | +1 |
+| 2026-10-30 | +3 |
+| 2026-10-31 | +3 |
+| 2026-11-01 | +1 |
+| 2026-11-02 | +0 |
