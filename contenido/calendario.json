@@ -838,6 +838,155 @@
       "archivo": "post52_cierre.jpg",
       "publicado_en": "2026-10-31T09:51:57-03:00",
       "media_id": "18071648765769456"
+    },
+    {
+      "id": "post54-instructorado",
+      "tipo": "carrusel",
+      "estado": "pendiente",
+      "fecha": "2026-11-11",
+      "hora": "19:00",
+      "caption": "¿Hiciste el MBSR y pensaste alguna vez en enseñarlo?\n\nEl Instructorado en Mindfulness 2027 arranca el sábado 10 de abril 👉 deslizá.\n\nUn sábado al mes de 10 a 14, de abril a diciembre. Nueve módulos: los cinco primeros en vivo por Zoom y los cuatro últimos presenciales en Villa Urquiza.\n\nEl requisito es haber hecho el programa MBSR de ocho semanas, y no es un trámite: no se enseña a guiar algo que no se transitó primero en carne propia.\n\nTrescientas horas certificadas. La matrícula está bonificada hasta el 30 de noviembre y los cupos son limitados.\n\nEscribinos y te pasamos el temario completo 🌿\n\n#Mindfulness #MBSR #Psicologia #ACT #Psicoterapia #FormacionProfesional #SaludMental #EspacioMindfulness",
+      "archivos": [
+        "post54_inst_1.jpg",
+        "post54_inst_2.jpg",
+        "post54_inst_3.jpg",
+        "post54_inst_4.jpg",
+        "post54_inst_5.jpg"
+      ]
+    },
+    {
+      "id": "post55-cansancio-noviembre",
+      "tipo": "carrusel",
+      "estado": "pendiente",
+      "fecha": "2026-11-13",
+      "hora": "19:00",
+      "caption": "El cansancio de noviembre no es el de marzo.\n\nCuatro razones por las que el final del año pega distinto 👉 deslizá.\n\nLa segunda es la que menos se nombra: diciembre invita a comparar lo que pasó con lo que habías planeado en enero, y esa comparación la hacemos con una vara que no le aplicaríamos a nadie más.\n\nNo se trata de bajar el ritmo — a veces no se puede. Se trata de notar cuál de las cuatro te está pesando de verdad, porque cada una se trabaja distinto.\n\n¿Cuál reconocés? 👇\n\n#Mindfulness #MBSR #MindfulnessArgentina #SaludMental #Ansiedad #ReduccionDeEstres #EspacioMindfulness",
+      "archivos": [
+        "post55_finanio_1.jpg",
+        "post55_finanio_2.jpg",
+        "post55_finanio_3.jpg",
+        "post55_finanio_4.jpg",
+        "post55_finanio_5.jpg",
+        "post55_finanio_6.jpg"
+      ]
+    },
+    {
+      "id": "post56-frase-descanso",
+      "tipo": "imagen",
+      "estado": "pendiente",
+      "fecha": "2026-11-15",
+      "hora": "09:30",
+      "caption": "Descansar no es lo que queda después de terminar todo.\n\nSi fuera así, nunca tocaría. Siempre hay algo más, y en noviembre más todavía.\n\nEl descanso es una decisión que se toma con cosas pendientes, o no se toma nunca 🌿\n\n#Mindfulness #MBSR #MindfulnessArgentina #SaludMental #Ansiedad #ReduccionDeEstres #EspacioMindfulness",
+      "archivo": "post56_frase_descanso.jpg"
+    },
+    {
+      "id": "post57-reuniones",
+      "tipo": "carrusel",
+      "estado": "pendiente",
+      "fecha": "2026-11-17",
+      "hora": "19:00",
+      "caption": "Esa reunión familiar de la que no te podés ir.\n\nCinco cosas que ayudan cuando irse no es una opción 👉 deslizá.\n\nLa segunda vale por todas: ya sabés cuál es la pregunta incómoda y quién la va a hacer. Lo que descoloca no es la pregunta, es que te agarre desprevenido. Tener pensada una respuesta corta y amable cambia la noche entera.\n\nNinguna de las cinco cambia a tu familia. Las cinco cambian con qué llegás vos, que es lo único que está a tu alcance.\n\nGuardátelo para diciembre 🌿\n\n#Mindfulness #MBSR #MindfulnessArgentina #SaludMental #Ansiedad #ReduccionDeEstres #EspacioMindfulness",
+      "archivos": [
+        "post57_reuniones_1.jpg",
+        "post57_reuniones_2.jpg",
+        "post57_reuniones_3.jpg",
+        "post57_reuniones_4.jpg",
+        "post57_reuniones_5.jpg",
+        "post57_reuniones_6.jpg",
+        "post57_reuniones_7.jpg"
+      ]
+    },
+    {
+      "id": "post58-diplomado-noviembre",
+      "tipo": "imagen",
+      "estado": "pendiente",
+      "fecha": "2026-11-19",
+      "hora": "09:30",
+      "caption": "Diplomado en Psicoterapia Basada en Procesos — Cohorte 2027.\n\nMindfulness, ACT y compasión integrados en un solo marco de trabajo: por procesos del paciente, no por protocolos cerrados.\n\nNueve encuentros de cuatro horas, un martes por mes, todos en vivo por Zoom, de abril a diciembre. Más el cierre presencial en Buenos Aires con práctica intensiva y graduación. Doscientas horas certificadas.\n\nLa matrícula está bonificada hasta el 30 de noviembre.\n\nEscribinos y te pasamos el temario completo en PDF 🌿\n\n#Mindfulness #MBSR #Psicologia #ACT #Psicoterapia #FormacionProfesional #SaludMental #EspacioMindfulness",
+      "archivo": "post58_diplomado.jpg"
+    },
+    {
+      "id": "post59-balance",
+      "tipo": "carrusel",
+      "estado": "pendiente",
+      "fecha": "2026-11-21",
+      "hora": "19:00",
+      "caption": "Hacer un balance del año sin maltratarte.\n\nCuatro preguntas mejores que «¿cumplí lo que me propuse?» 👉 deslizá.\n\nLa tercera es la que más desarma: abandonar algo que ya no iba no es un fracaso. En la lista de enero figura como casillero sin tildar, y en la vida real fue una buena decisión.\n\nEl balance no es un juicio. Es información para decidir qué hacer distinto — y cuando se vuelve una condena, deja de servir para las dos cosas.\n\nGuardátelo para cuando llegue el momento 🌿\n\n#Mindfulness #MBSR #MindfulnessArgentina #SaludMental #Ansiedad #ReduccionDeEstres #EspacioMindfulness",
+      "archivos": [
+        "post59_balance_1.jpg",
+        "post59_balance_2.jpg",
+        "post59_balance_3.jpg",
+        "post59_balance_4.jpg",
+        "post59_balance_5.jpg",
+        "post59_balance_6.jpg"
+      ]
+    },
+    {
+      "id": "post60-egresados-noviembre",
+      "tipo": "imagen",
+      "estado": "pendiente",
+      "fecha": "2026-11-23",
+      "hora": "09:30",
+      "caption": "Más de mil personas pasaron por nuestros programas desde 2012. Y más de cuarenta empresas.\n\nLo decimos poco. Pero cuando alguien busca dónde empezar a practicar o dónde formarse, conviene saber hace cuánto está abierto el lugar y quién lo acredita.\n\nEspacio Mindfulness está acreditado por Global Mindfulness Collaborative, que es el estándar internacional para la formación de instructores de MBSR.\n\nChequealo. Y chequeá a cualquiera con quien vayas a formarte 🌿\n\n#Mindfulness #MBSR #MindfulnessArgentina #SaludMental #Ansiedad #ReduccionDeEstres #EspacioMindfulness",
+      "archivo": "post60_egresados.jpg"
+    },
+    {
+      "id": "post61-propositos",
+      "tipo": "carrusel",
+      "estado": "pendiente",
+      "fecha": "2026-11-25",
+      "hora": "19:00",
+      "caption": "Por qué fallan los propósitos de enero, y qué hacer distinto este año.\n\nTres razones 👉 deslizá.\n\nLa segunda es la más práctica: «estar más tranquilo» no es algo que puedas hacer un martes. «Diez minutos de práctica antes del desayuno» sí. Un propósito que no se puede agendar no es un propósito, es un deseo.\n\nY la tercera explica casi todos los abandonos: el propósito se plantea como una racha, y una racha se corta una sola vez. Lo que sostiene algo en el tiempo no es no fallar, es qué hacés al día siguiente.\n\nVolver es la práctica 🌿\n\n#Mindfulness #MBSR #MindfulnessArgentina #SaludMental #Ansiedad #ReduccionDeEstres #EspacioMindfulness",
+      "archivos": [
+        "post61_propositos_1.jpg",
+        "post61_propositos_2.jpg",
+        "post61_propositos_3.jpg",
+        "post61_propositos_4.jpg",
+        "post61_propositos_5.jpg"
+      ]
+    },
+    {
+      "id": "post62-ultimos-dias",
+      "tipo": "imagen",
+      "estado": "pendiente",
+      "fecha": "2026-11-27",
+      "hora": "09:30",
+      "caption": "Quedan pocos días: el 30 de noviembre vence la matrícula bonificada de las dos formaciones 2027.\n\n· **Instructorado en Mindfulness** — para egresados del programa MBSR que quieran formarse para conducir grupos. Arranca el 10 de abril, un sábado al mes.\n\n· **Diplomado en Psicoterapia Basada en Procesos** — para psicólogos y profesionales de la salud mental. Arranca el 13 de abril, un martes al mes en vivo por Zoom.\n\nLos dos con cupos limitados y grupos chicos.\n\nEscribinos por WhatsApp y te pasamos el temario del que te interese 🌿\n\n#Mindfulness #MBSR #Psicologia #ACT #Psicoterapia #FormacionProfesional #SaludMental #EspacioMindfulness",
+      "archivo": "post62_ultimos_dias.jpg"
+    },
+    {
+      "id": "post63-brindis",
+      "tipo": "carrusel",
+      "estado": "pendiente",
+      "fecha": "2026-11-29",
+      "hora": "19:00",
+      "caption": "Comer en diciembre sin pelearte con la comida.\n\nCuatro ideas para una época de brindis y sobremesas 👉 deslizá.\n\nLa primera cambia el enfoque: el problema rara vez es la comida. Es comer sin registrar que estás comiendo — de pie, hablando, con el plato apoyado en cualquier lado. Después queda la sensación de haber comido mucho sin haber disfrutado nada.\n\nY la cuarta es la más simple y la que más cambia: sentate. Comer sentado y con el plato servido convierte el picoteo infinito en una comida con principio y final.\n\nNo es un plan de alimentación. Es prestar atención a algo que hacemos varias veces por día con la cabeza en otro lado 🌿\n\n#Mindfulness #MBSR #MindfulnessArgentina #SaludMental #Ansiedad #ReduccionDeEstres #EspacioMindfulness",
+      "archivos": [
+        "post63_brindis_1.jpg",
+        "post63_brindis_2.jpg",
+        "post63_brindis_3.jpg",
+        "post63_brindis_4.jpg",
+        "post63_brindis_5.jpg",
+        "post63_brindis_6.jpg"
+      ]
+    },
+    {
+      "id": "post64-hoy-vence",
+      "tipo": "imagen",
+      "estado": "pendiente",
+      "fecha": "2026-11-30",
+      "hora": "09:30",
+      "caption": "Hoy es el último día de matrícula bonificada para las formaciones 2027.\n\nSi venías dándole vueltas al Instructorado o al Diplomado, hoy es la fecha.\n\nEscribinos por WhatsApp y resolvemos las dudas que te queden — cómo se cursa, qué se ve, si es para vos. Sin compromiso 🌿\n\n#Mindfulness #MBSR #Psicologia #ACT #Psicoterapia #FormacionProfesional #SaludMental #EspacioMindfulness",
+      "archivo": "post64_hoy_vence.jpg"
+    },
+    {
+      "id": "post65-volver-a-empezar",
+      "tipo": "imagen",
+      "estado": "pendiente",
+      "fecha": "2026-12-02",
+      "hora": "09:30",
+      "caption": "La práctica que dejaste en marzo todavía te espera.\n\nNadie sostiene una práctica sin interrupciones. Ni los que enseñamos.\n\nLa diferencia entre quien medita hace diez años y quien abandonó no es que uno no se haya ido. Es que volvió más veces.\n\nDiciembre parece el peor mes para retomar, y por eso mismo es un buen lugar para probar que no hace falta esperar a enero 🌿\n\n#Mindfulness #MBSR #MindfulnessArgentina #SaludMental #Ansiedad #ReduccionDeEstres #EspacioMindfulness",
+      "archivo": "post65_volver.jpg"
     }
   ]
 }
