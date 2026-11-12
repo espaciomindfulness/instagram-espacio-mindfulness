@@ -55,7 +55,10 @@ def p1_estuve_ahi():
               TURQ_PALIDO, sep=4, centrado_en=W)
     y = parrafo(d, "El MBSR actualizó su currículum.", fuente(SERIF_B, 82),
                 MARGEN, 328, util, CREMA, interlinea=1.16, centrado=True)
-    y = parrafo(d, "Estuve ahí.", fuente(SERIF_I, 82), MARGEN, y + 8, util,
+    # "Estuvimos" y no "Estuve": la placa sale de la cuenta de la institucion
+    # y Christian participo como su director. El cuerpo del texto aclara que
+    # fue el, para que el plural no sugiera que fueron varios.
+    y = parrafo(d, "Estuvimos ahí.", fuente(SERIF_I, 82), MARGEN, y + 8, util,
                 CREMA, interlinea=1.16, centrado=True)
 
     # La tira entra a todo el ancho util, con su proporcion original.

@@ -23,7 +23,8 @@ RAIZ = Path(__file__).resolve().parent.parent
 RUTA = RAIZ / "contenido" / "calendario.json"
 
 CAPTION = (
- "Hoy el MBSR presentó su currículum 2026. Estuve conectado.\n\n"
+ "Hoy el MBSR presentó su currículum 2026. Participé en vivo, en "
+ "representación de Espacio Mindfulness.\n\n"
  "Brown University School of Professional Studies y el Global Mindfulness "
  "Collaborative presentaron la guía 2026 del programa, con Jon Kabat-Zinn "
  "—que lo creó en 1979— entre los expositores. Más de 700 personas de todo "
