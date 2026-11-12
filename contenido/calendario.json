@@ -842,7 +842,7 @@
     {
       "id": "post54-instructorado",
       "tipo": "carrusel",
-      "estado": "pendiente",
+      "estado": "publicado",
       "fecha": "2026-11-11",
       "hora": "19:00",
       "caption": "¿Hiciste el MBSR y pensaste alguna vez en enseñarlo?\n\nEl Instructorado en Mindfulness 2027 arranca el sábado 10 de abril 👉 deslizá.\n\nUn sábado al mes de 10 a 14, de abril a diciembre. Nueve módulos: los cinco primeros en vivo por Zoom y los cuatro últimos presenciales en Villa Urquiza.\n\nEl requisito es haber hecho el programa MBSR de ocho semanas, y no es un trámite: no se enseña a guiar algo que no se transitó primero en carne propia.\n\nTrescientas horas certificadas. La matrícula está bonificada hasta el 30 de noviembre y los cupos son limitados.\n\nEscribinos y te pasamos el temario completo 🌿\n\n#Mindfulness #MBSR #Psicologia #ACT #Psicoterapia #FormacionProfesional #SaludMental #EspacioMindfulness",
@@ -852,7 +852,9 @@
         "post54_inst_3.jpg",
         "post54_inst_4.jpg",
         "post54_inst_5.jpg"
-      ]
+      ],
+      "publicado_en": "2026-11-12T07:26:35-03:00",
+      "media_id": "18130547146868071"
     },
     {
       "id": "post55-cansancio-noviembre",
