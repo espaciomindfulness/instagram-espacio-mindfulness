@@ -879,7 +879,7 @@
     {
       "id": "post55-cansancio-noviembre",
       "tipo": "carrusel",
-      "estado": "pendiente",
+      "estado": "publicado",
       "fecha": "2026-11-13",
       "hora": "19:00",
       "caption": "El cansancio de noviembre no es el de marzo.\n\nCuatro razones por las que el final del año pega distinto 👉 deslizá.\n\nLa segunda es la que menos se nombra: diciembre invita a comparar lo que pasó con lo que habías planeado en enero, y esa comparación la hacemos con una vara que no le aplicaríamos a nadie más.\n\nNo se trata de bajar el ritmo — a veces no se puede. Se trata de notar cuál de las cuatro te está pesando de verdad, porque cada una se trabaja distinto.\n\n¿Cuál reconocés? 👇\n\n#Mindfulness #MBSR #MindfulnessArgentina #SaludMental #Ansiedad #ReduccionDeEstres #EspacioMindfulness",
@@ -890,7 +890,9 @@
         "post55_finanio_4.jpg",
         "post55_finanio_5.jpg",
         "post55_finanio_6.jpg"
-      ]
+      ],
+      "publicado_en": "2026-11-13T21:00:03-03:00",
+      "media_id": "17906184606656237"
     },
     {
       "id": "post56-frase-descanso",
