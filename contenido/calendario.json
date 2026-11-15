@@ -897,11 +897,13 @@
     {
       "id": "post56-frase-descanso",
       "tipo": "imagen",
-      "estado": "pendiente",
+      "estado": "publicado",
       "fecha": "2026-11-15",
       "hora": "09:30",
       "caption": "Descansar no es lo que queda después de terminar todo.\n\nSi fuera así, nunca tocaría. Siempre hay algo más, y en noviembre más todavía.\n\nEl descanso es una decisión que se toma con cosas pendientes, o no se toma nunca 🌿\n\n#Mindfulness #MBSR #MindfulnessArgentina #SaludMental #Ansiedad #ReduccionDeEstres #EspacioMindfulness",
-      "archivo": "post56_frase_descanso.jpg"
+      "archivo": "post56_frase_descanso.jpg",
+      "publicado_en": "2026-11-15T13:41:35-03:00",
+      "media_id": "18392338132228248"
     },
     {
       "id": "post57-reuniones",
