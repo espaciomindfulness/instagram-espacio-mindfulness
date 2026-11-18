@@ -908,7 +908,7 @@
     {
       "id": "post57-reuniones",
       "tipo": "carrusel",
-      "estado": "pendiente",
+      "estado": "publicado",
       "fecha": "2026-11-17",
       "hora": "19:00",
       "caption": "Esa reunión familiar de la que no te podés ir.\n\nCinco cosas que ayudan cuando irse no es una opción 👉 deslizá.\n\nLa segunda vale por todas: ya sabés cuál es la pregunta incómoda y quién la va a hacer. Lo que descoloca no es la pregunta, es que te agarre desprevenido. Tener pensada una respuesta corta y amable cambia la noche entera.\n\nNinguna de las cinco cambia a tu familia. Las cinco cambian con qué llegás vos, que es lo único que está a tu alcance.\n\nGuardátelo para diciembre 🌿\n\n#Mindfulness #MBSR #MindfulnessArgentina #SaludMental #Ansiedad #ReduccionDeEstres #EspacioMindfulness",
@@ -920,7 +920,9 @@
         "post57_reuniones_5.jpg",
         "post57_reuniones_6.jpg",
         "post57_reuniones_7.jpg"
-      ]
+      ],
+      "publicado_en": "2026-11-17T22:46:10-03:00",
+      "media_id": "17972593341188607"
     },
     {
       "id": "post58-diplomado-noviembre",
