@@ -927,11 +927,13 @@
     {
       "id": "post58-diplomado-noviembre",
       "tipo": "imagen",
-      "estado": "pendiente",
+      "estado": "publicado",
       "fecha": "2026-11-19",
       "hora": "09:30",
       "caption": "Diplomado en Psicoterapia Basada en Procesos — Cohorte 2027.\n\nMindfulness, ACT y compasión integrados en un solo marco de trabajo: por procesos del paciente, no por protocolos cerrados.\n\nNueve encuentros de cuatro horas, un martes por mes, todos en vivo por Zoom, de abril a diciembre. Más el cierre presencial en Buenos Aires con práctica intensiva y graduación. Doscientas horas certificadas.\n\nLa matrícula está bonificada hasta el 30 de noviembre.\n\nEscribinos y te pasamos el temario completo en PDF 🌿\n\n#Mindfulness #MBSR #Psicologia #ACT #Psicoterapia #FormacionProfesional #SaludMental #EspacioMindfulness",
-      "archivo": "post58_diplomado.jpg"
+      "archivo": "post58_diplomado.jpg",
+      "publicado_en": "2026-11-19T14:28:53-03:00",
+      "media_id": "18103231379643107"
     },
     {
       "id": "post59-balance",
