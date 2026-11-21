@@ -938,7 +938,7 @@
     {
       "id": "post59-balance",
       "tipo": "carrusel",
-      "estado": "pendiente",
+      "estado": "publicado",
       "fecha": "2026-11-21",
       "hora": "19:00",
       "caption": "Hacer un balance del año sin maltratarte.\n\nCuatro preguntas mejores que «¿cumplí lo que me propuse?» 👉 deslizá.\n\nLa tercera es la que más desarma: abandonar algo que ya no iba no es un fracaso. En la lista de enero figura como casillero sin tildar, y en la vida real fue una buena decisión.\n\nEl balance no es un juicio. Es información para decidir qué hacer distinto — y cuando se vuelve una condena, deja de servir para las dos cosas.\n\nGuardátelo para cuando llegue el momento 🌿\n\n#Mindfulness #MBSR #MindfulnessArgentina #SaludMental #Ansiedad #ReduccionDeEstres #EspacioMindfulness",
@@ -949,7 +949,9 @@
         "post59_balance_4.jpg",
         "post59_balance_5.jpg",
         "post59_balance_6.jpg"
-      ]
+      ],
+      "publicado_en": "2026-11-21T19:32:59-03:00",
+      "media_id": "18150234601571378"
     },
     {
       "id": "post60-egresados-noviembre",
