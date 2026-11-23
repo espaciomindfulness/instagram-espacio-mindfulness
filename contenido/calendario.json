@@ -956,11 +956,13 @@
     {
       "id": "post60-egresados-noviembre",
       "tipo": "imagen",
-      "estado": "pendiente",
+      "estado": "publicado",
       "fecha": "2026-11-23",
       "hora": "09:30",
       "caption": "Más de mil personas pasaron por nuestros programas desde 2012. Y más de cuarenta empresas.\n\nLo decimos poco. Pero cuando alguien busca dónde empezar a practicar o dónde formarse, conviene saber hace cuánto está abierto el lugar y quién lo acredita.\n\nEspacio Mindfulness está acreditado por Global Mindfulness Collaborative, que es el estándar internacional para la formación de instructores de MBSR.\n\nChequealo. Y chequeá a cualquiera con quien vayas a formarte 🌿\n\n#Mindfulness #MBSR #MindfulnessArgentina #SaludMental #Ansiedad #ReduccionDeEstres #EspacioMindfulness",
-      "archivo": "post60_egresados.jpg"
+      "archivo": "post60_egresados.jpg",
+      "publicado_en": "2026-11-23T10:48:50-03:00",
+      "media_id": "17937396144146184"
     },
     {
       "id": "post61-propositos",
