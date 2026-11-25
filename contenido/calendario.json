@@ -967,7 +967,7 @@
     {
       "id": "post61-propositos",
       "tipo": "carrusel",
-      "estado": "pendiente",
+      "estado": "publicado",
       "fecha": "2026-11-25",
       "hora": "19:00",
       "caption": "Por qué fallan los propósitos de enero, y qué hacer distinto este año.\n\nTres razones 👉 deslizá.\n\nLa segunda es la más práctica: «estar más tranquilo» no es algo que puedas hacer un martes. «Diez minutos de práctica antes del desayuno» sí. Un propósito que no se puede agendar no es un propósito, es un deseo.\n\nY la tercera explica casi todos los abandonos: el propósito se plantea como una racha, y una racha se corta una sola vez. Lo que sostiene algo en el tiempo no es no fallar, es qué hacés al día siguiente.\n\nVolver es la práctica 🌿\n\n#Mindfulness #MBSR #MindfulnessArgentina #SaludMental #Ansiedad #ReduccionDeEstres #EspacioMindfulness",
@@ -977,7 +977,9 @@
         "post61_propositos_3.jpg",
         "post61_propositos_4.jpg",
         "post61_propositos_5.jpg"
-      ]
+      ],
+      "publicado_en": "2026-11-25T20:24:28-03:00",
+      "media_id": "18102030449538653"
     },
     {
       "id": "post62-ultimos-dias",
