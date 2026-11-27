@@ -984,11 +984,13 @@
     {
       "id": "post62-ultimos-dias",
       "tipo": "imagen",
-      "estado": "pendiente",
+      "estado": "publicado",
       "fecha": "2026-11-27",
       "hora": "09:30",
       "caption": "Quedan pocos días: el 30 de noviembre vence la matrícula bonificada de las dos formaciones 2027.\n\n· **Instructorado en Mindfulness** — para egresados del programa MBSR que quieran formarse para conducir grupos. Arranca el 10 de abril, un sábado al mes.\n\n· **Diplomado en Psicoterapia Basada en Procesos** — para psicólogos y profesionales de la salud mental. Arranca el 13 de abril, un martes al mes en vivo por Zoom.\n\nLos dos con cupos limitados y grupos chicos.\n\nEscribinos por WhatsApp y te pasamos el temario del que te interese 🌿\n\n#Mindfulness #MBSR #Psicologia #ACT #Psicoterapia #FormacionProfesional #SaludMental #EspacioMindfulness",
-      "archivo": "post62_ultimos_dias.jpg"
+      "archivo": "post62_ultimos_dias.jpg",
+      "publicado_en": "2026-11-27T15:33:13-03:00",
+      "media_id": "18105096791652984"
     },
     {
       "id": "post63-brindis",
